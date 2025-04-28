@@ -72,4 +72,5 @@ python query_comparison.py
 - MongoDB部分实现于Linux环境下，不在当前Windows环境中运行
 - 需要在运行前配置正确的数据库连接信息和API密钥
 - 查询比较结果受网络延迟、数据库负载等因素影响
+- 本项目仅为智能数据工程作业相关代码段
 
