@@ -1,0 +1,382 @@
+[
+  {
+    "actorLabel": "张艺谋",
+    "birthdate": "2000-07-17",
+    "birthplaceLabel": "哈尔滨",
+    "citizenshipLabel": "中国",
+    "movies": "蝙蝠侠, 重庆森林, 泰坦尼克号, 唐人街探案",
+    "awards": "威尼斯电影节金狮奖, 金像奖最佳女演员"
+  },
+  {
+    "actorLabel": "周星驰",
+    "birthdate": "1972-07-12",
+    "birthplaceLabel": "天津",
+    "citizenshipLabel": "中国",
+    "movies": "霸王别姬, 大话西游, 泰坦尼克号, 重庆森林",
+    "awards": "金鸡奖最佳男演员, 金马奖最佳影片"
+  },
+  {
+    "actorLabel": "成龙",
+    "birthdate": "1991-03-19",
+    "birthplaceLabel": "厦门",
+    "citizenshipLabel": "中国",
+    "movies": "让子弹飞"
+  },
+  {
+    "actorLabel": "李连杰",
+    "birthdate": "1995-06-12",
+    "birthplaceLabel": "福州",
+    "citizenshipLabel": "中国",
+    "movies": "复仇者联盟"
+  },
+  {
+    "actorLabel": "章子怡",
+    "birthdate": "1991-03-24",
+    "birthplaceLabel": "青岛",
+    "citizenshipLabel": "中国",
+    "movies": "复仇者联盟, 霸王别姬, 指环王, 红高粱, 我不是药神"
+  },
+  {
+    "actorLabel": "巩俐",
+    "birthdate": "1963-04-13",
+    "birthplaceLabel": "西安",
+    "citizenshipLabel": "中国",
+    "movies": "我不是药神, 哪吒之魔童降世, 指环王",
+    "awards": "奥斯卡最佳导演"
+  },
+  {
+    "actorLabel": "赵薇",
+    "birthdate": "1969-04-02",
+    "birthplaceLabel": "长沙",
+    "citizenshipLabel": "中国",
+    "movies": "复仇者联盟, 活着, 功夫",
+    "awards": "金鸡奖最佳女演员, 金马奖最佳导演, 百花奖最佳女演员"
+  },
+  {
+    "actorLabel": "周润发",
+    "birthdate": "1994-09-24",
+    "birthplaceLabel": "上海",
+    "citizenshipLabel": "中国",
+    "movies": "活着, 霸王别姬, 蝙蝠侠",
+    "awards": "百花奖最佳男演员"
+  },
+  {
+    "actorLabel": "葛优",
+    "birthdate": "1982-11-02",
+    "birthplaceLabel": "西安",
+    "citizenshipLabel": "中国",
+    "movies": "复仇者联盟, 满城尽带黄金甲, 阳光灿烂的日子",
+    "awards": "金鸡奖最佳男演员"
+  },
+  {
+    "actorLabel": "刘德华",
+    "birthdate": "1968-10-20",
+    "birthplaceLabel": "北京",
+    "citizenshipLabel": "中国",
+    "movies": "蝙蝠侠, 满城尽带黄金甲, 功夫, 红高粱",
+    "awards": "金马奖最佳影片"
+  },
+  {
+    "actorLabel": "梁朝伟",
+    "birthdate": "1963-09-23",
+    "birthplaceLabel": "宁波",
+    "citizenshipLabel": "中国",
+    "movies": "阳光灿烂的日子, 哪吒之魔童降世, 武侠, 活着",
+    "awards": "戛纳电影节金棕榈奖, 金球奖最佳外语片"
+  },
+  {
+    "actorLabel": "黄渤",
+    "birthdate": "2000-01-01",
+    "birthplaceLabel": "上海",
+    "citizenshipLabel": "中国",
+    "movies": "霸王别姬, 卧虎藏龙, 甜蜜蜜",
+    "awards": "金马奖最佳影片, 金球奖最佳外语片, 戛纳电影节金棕榈奖"
+  },
+  {
+    "actorLabel": "姜文",
+    "birthdate": "1951-06-01",
+    "birthplaceLabel": "天津",
+    "citizenshipLabel": "中国",
+    "movies": "让子弹飞"
+  },
+  {
+    "actorLabel": "张曼玉",
+    "birthdate": "1983-09-24",
+    "birthplaceLabel": "哈尔滨",
+    "citizenshipLabel": "中国",
+    "movies": "速度与激情, 一代宗师",
+    "awards": "百花奖最佳女演员"
+  },
+  {
+    "actorLabel": "王宝强",
+    "birthdate": "1978-05-08",
+    "birthplaceLabel": "深圳",
+    "citizenshipLabel": "中国",
+    "movies": "速度与激情",
+    "awards": "金像奖最佳男演员"
+  },
+  {
+    "actorLabel": "徐峥",
+    "birthdate": "1965-03-13",
+    "birthplaceLabel": "福州",
+    "citizenshipLabel": "中国",
+    "movies": "霸王别姬, 红高粱",
+    "awards": "金马奖最佳导演, 金鸡奖最佳导演, 金鸡奖最佳女演员"
+  },
+  {
+    "actorLabel": "周迅",
+    "birthdate": "1968-11-18",
+    "birthplaceLabel": "广州",
+    "citizenshipLabel": "中国",
+    "movies": "星球大战",
+    "awards": "百花奖最佳男演员, 柏林电影节金熊奖"
+  },
+  {
+    "actorLabel": "舒淇",
+    "birthdate": "1989-07-10",
+    "birthplaceLabel": "沈阳",
+    "citizenshipLabel": "中国",
+    "movies": "速度与激情, 你好，李焕英, 黑客帝国, 指环王, 哪吒之魔童降世"
+  },
+  {
+    "actorLabel": "刘若英",
+    "birthdate": "1980-09-13",
+    "birthplaceLabel": "天津",
+    "citizenshipLabel": "中国",
+    "movies": "英雄, 一代宗师, 东邪西毒, 大话西游, 满城尽带黄金甲",
+    "awards": "奥斯卡最佳外语片"
+  },
+  {
+    "actorLabel": "郭富城",
+    "birthdate": "1975-07-17",
+    "birthplaceLabel": "宁波",
+    "citizenshipLabel": "中国",
+    "movies": "英雄, 流浪地球, 战狼",
+    "awards": "柏林电影节金熊奖, 金鸡奖最佳女演员"
+  },
+  {
+    "actorLabel": "林青霞",
+    "birthdate": "1950-09-11",
+    "birthplaceLabel": "南京",
+    "citizenshipLabel": "中国",
+    "movies": "红高粱, 无间道, 满城尽带黄金甲"
+  },
+  {
+    "actorLabel": "李小龙",
+    "birthdate": "1971-07-05",
+    "birthplaceLabel": "厦门",
+    "citizenshipLabel": "中国",
+    "movies": "流浪地球, 武侠",
+    "awards": "金马奖最佳导演, 奥斯卡最佳导演, 金像奖最佳女演员"
+  },
+  {
+    "actorLabel": "王家卫",
+    "birthdate": "1957-02-13",
+    "birthplaceLabel": "成都",
+    "citizenshipLabel": "中国",
+    "movies": "活着",
+    "awards": "奥斯卡最佳外语片"
+  },
+  {
+    "actorLabel": "范冰冰",
+    "birthdate": "1980-02-26",
+    "birthplaceLabel": "上海",
+    "citizenshipLabel": "中国",
+    "movies": "蝙蝠侠, 英雄, 让子弹飞, 指环王, 复仇者联盟"
+  },
+  {
+    "actorLabel": "梁家辉",
+    "birthdate": "1989-03-02",
+    "birthplaceLabel": "武汉",
+    "citizenshipLabel": "中国",
+    "movies": "英雄, 功夫, 无间道, 霸王别姬",
+    "awards": "奥斯卡最佳外语片, 金鸡奖最佳导演"
+  },
+  {
+    "actorLabel": "林志玲",
+    "birthdate": "1995-10-07",
+    "birthplaceLabel": "广州",
+    "citizenshipLabel": "中国",
+    "movies": "卧虎藏龙, 指环王, 霸王别姬",
+    "awards": "戛纳电影节金棕榈奖"
+  },
+  {
+    "actorLabel": "周杰伦",
+    "birthdate": "1976-08-06",
+    "birthplaceLabel": "深圳",
+    "citizenshipLabel": "中国",
+    "movies": "满城尽带黄金甲, 重庆森林, 阳光灿烂的日子, 复仇者联盟",
+    "awards": "金鸡奖最佳男演员, 戛纳电影节金棕榈奖, 金马奖最佳影片"
+  },
+  {
+    "actorLabel": "李宇春",
+    "birthdate": "1982-09-02",
+    "birthplaceLabel": "杭州",
+    "citizenshipLabel": "中国",
+    "movies": "满城尽带黄金甲",
+    "awards": "威尼斯电影节金狮奖, 金像奖最佳男演员"
+  },
+  {
+    "actorLabel": "吴亦凡",
+    "birthdate": "1974-07-23",
+    "birthplaceLabel": "沈阳",
+    "citizenshipLabel": "中国",
+    "movies": "大话西游, 功夫, 指环王",
+    "awards": "奥斯卡最佳外语片"
+  },
+  {
+    "actorLabel": "鹿晗",
+    "birthdate": "1950-11-23",
+    "birthplaceLabel": "宁波",
+    "citizenshipLabel": "中国",
+    "movies": "一代宗师, 阳光灿烂的日子, 活着, 蝙蝠侠",
+    "awards": "奥斯卡最佳导演, 百花奖最佳男演员, 金马奖最佳导演"
+  },
+  {
+    "actorLabel": "杨幂",
+    "birthdate": "1981-03-13",
+    "birthplaceLabel": "沈阳",
+    "citizenshipLabel": "中国",
+    "movies": "哪吒之魔童降世, 流浪地球"
+  },
+  {
+    "actorLabel": "刘亦菲",
+    "birthdate": "1962-04-25",
+    "birthplaceLabel": "深圳",
+    "citizenshipLabel": "中国",
+    "movies": "英雄, 卧虎藏龙, 指环王, 战狼",
+    "awards": "奥斯卡最佳外语片, 戛纳电影节金棕榈奖, 百花奖最佳女演员"
+  },
+  {
+    "actorLabel": "赵丽颖",
+    "birthdate": "1958-11-25",
+    "birthplaceLabel": "青岛",
+    "citizenshipLabel": "中国",
+    "movies": "活着, 哪吒之魔童降世, 黑客帝国, 英雄",
+    "awards": "金马奖最佳影片"
+  },
+  {
+    "actorLabel": "杨洋",
+    "birthdate": "1977-09-12",
+    "birthplaceLabel": "沈阳",
+    "citizenshipLabel": "中国",
+    "movies": "速度与激情, 黑客帝国, 让子弹飞, 重庆森林",
+    "awards": "金鸡奖最佳女演员, 戛纳电影节金棕榈奖"
+  },
+  {
+    "actorLabel": "迪丽热巴",
+    "birthdate": "1977-04-25",
+    "birthplaceLabel": "武汉",
+    "citizenshipLabel": "中国",
+    "movies": "满城尽带黄金甲, 哈利·波特, 东邪西毒",
+    "awards": "奥斯卡最佳导演"
+  },
+  {
+    "actorLabel": "古力娜扎",
+    "birthdate": "2000-03-16",
+    "birthplaceLabel": "北京",
+    "citizenshipLabel": "中国",
+    "movies": "星球大战, 一代宗师, 指环王, 阳光灿烂的日子, 东邪西毒",
+    "awards": "金球奖最佳外语片, 金马奖最佳导演"
+  },
+  {
+    "actorLabel": "angelababy",
+    "birthdate": "1960-09-04",
+    "birthplaceLabel": "福州",
+    "citizenshipLabel": "中国",
+    "movies": "甜蜜蜜"
+  },
+  {
+    "actorLabel": "黄晓明",
+    "birthdate": "1966-05-25",
+    "birthplaceLabel": "青岛",
+    "citizenshipLabel": "中国",
+    "movies": "你好，李焕英",
+    "awards": "金鸡奖最佳女演员"
+  },
+  {
+    "actorLabel": "胡歌",
+    "birthdate": "1982-03-10",
+    "birthplaceLabel": "厦门",
+    "citizenshipLabel": "中国",
+    "movies": "阳光灿烂的日子, 功夫, 复仇者联盟, 指环王"
+  },
+  {
+    "actorLabel": "李易峰",
+    "birthdate": "1956-04-15",
+    "birthplaceLabel": "福州",
+    "citizenshipLabel": "中国",
+    "movies": "唐人街探案, 武侠",
+    "awards": "戛纳电影节金棕榈奖, 金鸡奖最佳导演"
+  },
+  {
+    "actorLabel": "吴磊",
+    "birthdate": "1984-02-11",
+    "birthplaceLabel": "厦门",
+    "citizenshipLabel": "中国",
+    "movies": "重庆森林, 泰坦尼克号, 蝙蝠侠, 东邪西毒",
+    "awards": "金马奖最佳导演, 金像奖最佳男演员"
+  },
+  {
+    "actorLabel": "刘昊然",
+    "birthdate": "1979-01-26",
+    "birthplaceLabel": "上海",
+    "citizenshipLabel": "中国",
+    "movies": "哈利·波特, 东邪西毒, 无间道, 功夫",
+    "awards": "柏林电影节金熊奖, 百花奖最佳女演员"
+  },
+  {
+    "actorLabel": "王俊凯",
+    "birthdate": "1986-04-06",
+    "birthplaceLabel": "北京",
+    "citizenshipLabel": "中国",
+    "movies": "复仇者联盟, 哪吒之魔童降世, 星球大战, 黑客帝国",
+    "awards": "金像奖最佳男演员, 戛纳电影节金棕榈奖, 金马奖最佳导演"
+  },
+  {
+    "actorLabel": "谢霆锋",
+    "birthdate": "1960-11-20",
+    "birthplaceLabel": "沈阳",
+    "citizenshipLabel": "中国",
+    "movies": "哪吒之魔童降世, 红高粱, 哈利·波特, 东邪西毒"
+  },
+  {
+    "actorLabel": "陈道明",
+    "birthdate": "1982-05-03",
+    "birthplaceLabel": "西安",
+    "citizenshipLabel": "中国",
+    "movies": "战狼",
+    "awards": "百花奖最佳女演员, 奥斯卡最佳导演, 金球奖最佳外语片"
+  },
+  {
+    "actorLabel": "陈坤",
+    "birthdate": "1967-02-18",
+    "birthplaceLabel": "西安",
+    "citizenshipLabel": "中国",
+    "movies": "你好，李焕英, 哈利·波特, 流浪地球, 指环王",
+    "awards": "戛纳电影节金棕榈奖, 奥斯卡最佳外语片, 金鸡奖最佳导演"
+  },
+  {
+    "actorLabel": "张国荣",
+    "birthdate": "1959-02-01",
+    "birthplaceLabel": "哈尔滨",
+    "citizenshipLabel": "中国",
+    "movies": "霸王别姬, 重庆森林, 功夫"
+  },
+  {
+    "actorLabel": "郑秀文",
+    "birthdate": "1973-11-05",
+    "birthplaceLabel": "重庆",
+    "citizenshipLabel": "中国",
+    "movies": "速度与激情, 唐人街探案",
+    "awards": "金像奖最佳男演员, 奥斯卡最佳外语片"
+  },
+  {
+    "actorLabel": "李若彤",
+    "birthdate": "1992-04-09",
+    "birthplaceLabel": "深圳",
+    "citizenshipLabel": "中国",
+    "movies": "哈利·波特, 一代宗师",
+    "awards": "金马奖最佳导演, 戛纳电影节金棕榈奖"
+  }
+]

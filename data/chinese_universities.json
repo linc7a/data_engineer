@@ -1,0 +1,6636 @@
+{
+  "head": {
+    "vars": [
+      "university",
+      "universityLabel",
+      "inception",
+      "location",
+      "locationLabel",
+      "students",
+      "website"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15570"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1963-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "19861"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://cuhk.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港中文大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://de.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23101"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1940-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23102"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hrbeu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工程大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19206"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "黑龙江省"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23110"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nuaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京航空航天大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51841"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1909-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.shmtu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海海事大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82267"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1985-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.qdu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "青岛大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q137006"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1932-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.gxnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广西师范大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178972"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1924-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "65638"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.sysu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q190336"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "15800"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.muc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q197543"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1897-05-21T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "39000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zju.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q233300"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1964-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bisu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京第二外国语学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257655"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1905-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q263932"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zcmu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江中医药大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q716822"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.gdut.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广东工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q718332"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ybu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "延边大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q777323"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1903-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "震旦大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q831227"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nudt.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q831227"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.nudt.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832355"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2000-05-27T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.whut.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "武汉理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832550"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1938-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwpu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832792"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ysu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "燕山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q833961"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "21325"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.cupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q833961"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "21325"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ndmw.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q535534"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "呼和浩特市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ndmw.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q890671"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "满洲里市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ndmw.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q570937"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "鄂尔多斯市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q535534"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "呼和浩特市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q890671"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "满洲里市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q570937"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "鄂尔多斯市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/yw/Home.htm"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q535534"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "呼和浩特市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/yw/Home.htm"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q890671"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "满洲里市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834458"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1957-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.imu.edu.cn/yw/Home.htm"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "内蒙古大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q570937"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "鄂尔多斯市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834857"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1929-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cqu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "重庆大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835075"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1981-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.stu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "汕头大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835185"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1927-10-27T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://shmc.fudan.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "复旦大学上海医学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835731"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1921-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hebei-university.com"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835731"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1921-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://hebei-university.com/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835779"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.uibe.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "对外经济贸易大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q836014"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dufe.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "东北财经大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q837969"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.lnnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "辽宁师范大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839020"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1954-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.shnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海师范大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q840443"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.swu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847993"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2000-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.must.edu.mo/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "澳門科技大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q864879"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.usst.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q873230"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1950-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.qust.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "青岛科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q920505"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.swun.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q957715"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1915-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "11483"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bistu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京信息科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q981237"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西安交通大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985578"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1924-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.xju.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "新疆大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985755"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hqu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华侨大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985775"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ujn.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "济南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985808"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1934-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwsuaf.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北农林科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986087"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zjut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986430"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1996-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.usj.edu.mo/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "聖若瑟大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q987022"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1987-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1018771"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-11-22T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军海军大连舰艇学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1322553"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1985-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.utibet.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西藏大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1323075"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1950-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.swupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1323075"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1950-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.swupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1351114"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hifa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖北美术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1363559"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1923-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.neu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "东北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1389327"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sxau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "山西农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1391751"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2012-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://dukekunshan.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "昆山杜克大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1432030"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1946-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.jlu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "吉林大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4671492"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军军事科学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5053324"
+        },
+        "universityLabel": {
+          "type": "literal",
+          "value": "Q5053324"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28414979"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1954-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军防化研究院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q302940"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.sylu.edu.cn/sylusite/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "沈阳理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q391150"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1912-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.henu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q461033"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1902-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.gzu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "贵州大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "45000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q461322"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.guet.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "桂林电子科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q470963"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fzu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "福州大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "50000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q519556"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1938-04-02T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国立西南联合大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q545540"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1928-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ahu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "安徽大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "26690"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q603686"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1956-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hkbu.edu.hk/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港浸會大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q604470"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1901-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sdu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "山东大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q614203"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1972-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ahnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "安徽师范大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.hit.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q647594"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.dlpu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q148"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华人民共和国"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649868"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "0976-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖南大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649868"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1903-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖南大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649882"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1922-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ynu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "雲南大學"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "19872"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649895"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1956-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.zzu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "郑州大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q662131"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1915-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hhu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河海大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "33000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q676139"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1995-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fosu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "佛山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q676139"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1995-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fosu.edu.cn/english/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "佛山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1022929"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1931-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hubu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1027478"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1964-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.dlufl.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连外国语大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1041978"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nuc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1058956"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hlju.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "黑龙江大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1073795"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1998-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://cdhk.tongji.edu.cn"
+        },
+        "universityLabel": {
+          "type": "literal",
+          "value": "Q1073795"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074015"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1924-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ouc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国海洋大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074084"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1909-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cumt.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国矿业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074097"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cug.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国地质大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074103"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ustc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074308"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1997-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074363"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlfu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连海洋大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1075625"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nottingham.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "宁波诺丁汉大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1108042"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1964-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.tjfsu.edu.cn/zh/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "天津外国语大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1144682"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://global.bfsu.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京外国语大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8600"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1144682"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.bfsu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京外国语大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8600"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1144682"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://global.bfsu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京外国语大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "8600"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/sc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/sc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/sc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/sc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/tc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/tc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q986415"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "九龍城區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1937-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/tc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187271"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1994-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://polyu.edu.hk/tc/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港理工大學"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q157669"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "油尖旺區"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2982986"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1903-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hkac.edu"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港三育書院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6147859"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1985-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cdsndu.org"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7443422"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.smmu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军海军军医大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7651053"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.szai.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "苏州农业职业技术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8039394"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1959-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.wxit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "无锡职业技术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9665597"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "云南陆军讲武堂"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872931"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://zhaosheng.plaieu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军信息工程大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872983"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军成都军区昆明民族干部学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873012"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1986-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军海军士官学校"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873024"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防大学联合作战学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873029"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1986-10-08T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军空军大连通信士官学校"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873057"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1946-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军空军航空大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873121"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军边海防学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873133"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军陆军航空兵学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15916735"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1979-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hnlgzy.net/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖南理工职业技术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47517291"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.mitu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "福建信息职业技术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54914098"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.gdqy.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广东轻工职业技术大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54914098"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1999-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.gdqy.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广东轻工职业技术大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q97582092"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.gdmec.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广东机电职业技术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23101"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1940-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23102"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hrbeu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工程大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19206"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "黑龙江省"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23110"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nuaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京航空航天大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58555"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1964-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hss.org.hk/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "聖神修院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q190336"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.muc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央民族大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "15800"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.hit.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q831227"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nudt.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q831227"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.nudt.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832550"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1938-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwpu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q920505"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.swun.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985755"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hqu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华侨大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074103"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ustc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学技术大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1074308"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1997-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1455176"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.shisu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海外国语大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1477368"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlut.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1477812"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1902-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.njnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京师范大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "21885"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1510516"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ustb.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1540301"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1989-05-23T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hkmu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港都會大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1552757"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1928-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.gxu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广西大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1552757"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1928-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.gxu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "广西大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1563050"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1981-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://um.edu.mo"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "澳門大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1589630"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1956-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cueb.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "首都经济贸易大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622094"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1978-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://escis.dali.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大理大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622094"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1978-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.dali.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大理大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622134"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2003-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hebeinu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河北北方学院"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "15000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1622235"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1980-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zust.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639978"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1900-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.suda.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "苏州大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "48901"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1674548"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-10-15T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.bjut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1674548"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-10-15T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.bjut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1711196"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hust.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华中科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1765168"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1954-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cuc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国传媒大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1765168"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1954-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.cuc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国传媒大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1804773"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1902-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.njau.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1945756"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1983-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.szu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "深圳大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2031560"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1895-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.tju.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "天津大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2040973"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ahut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "安徽工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2120270"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1902-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北师范大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "35900"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2281517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://scu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "四川大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "70000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2281517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.scu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "四川大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "70000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ev.buaa.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ev.buaa.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ev.buaa.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4970"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "杭州市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://ev.buaa.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4970"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "杭州市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://buaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://buaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://buaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4970"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "杭州市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2299797"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-10-25T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://buaa.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京航空航天大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4970"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "杭州市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2399342"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "青岛理工大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "16900"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2431406"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xzmy.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西藏民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2492836"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.uir.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国际关系学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2492836"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.uir.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "国际关系学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2492920"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1955-09-10T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cfau.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "外交学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2492920"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1955-09-10T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cfau.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "外交学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2496116"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1902-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2496210"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.buct.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京化工大学"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "12000"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2578027"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.shzu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "石河子大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2655352"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ecust.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华东理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2687517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.jnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "暨南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2687517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.jnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "暨南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2687517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.jnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "暨南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2687517"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://english.jnu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "暨南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3133583"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cauc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民航大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3133583"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cauc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国民航大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3152213"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.suibe.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海对外经贸大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3152213"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1960-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://eng.suibe.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海对外经贸大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3249121"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.lyu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "临沂大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3274786"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cup.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国石油大学（北京）"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3332415"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1955-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.qfnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "曲阜师范大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3372325"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1917-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.pumc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京协和医学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3429270"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1898-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hzau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华中农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3429296"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1913-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.henau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河南农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3431706"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1946-09-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ctgu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "三峡大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3467465"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1909-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dlmu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "大连海事大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3551745"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bsu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京体育大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3953805"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.njust.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4222416"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-05-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cipuc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国刑事警察学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4222416"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-05-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.npuc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国刑事警察学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4569544"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1949-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cwu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中华女子学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4881127"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1947-08-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.besti.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京电子科技学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099732"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1946-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.culr.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国劳动关系学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5099978"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cyu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国青年政治学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5100586"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1981-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cppu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民警察大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5100586"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1981-04-24T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cppu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民警察大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5100590"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1948-07-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.ppsuc.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民公安大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6147859"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1985-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cdsndu.org"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军国防大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6544465"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1978-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ucas.ac.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国科学院大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7060264"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1950-08-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xbmu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7566777"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.scuec.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中南民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10567152"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1887-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "黃埔海軍學校"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10867958"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1953-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.shcc.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海海关学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10872999"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军海军指挥学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10873034"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1958-09-12T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国人民解放军空军指挥学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10875050"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1956-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cicp.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央司法警官学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10902198"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1981-01-01T00:00:00Z"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京天主教神哲学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10903058"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1984-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.nmu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北方民族大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10905504"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1984-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.ncist.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华北科技学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10906861"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.forestpolice.net/web/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京警察学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10906861"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2010-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.forestpolice.net/web/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京警察学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10906861"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1941-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.forestpolice.net/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京警察学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15570"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1963-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "19861"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://cuhk.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港中文大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://de.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://de.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16947"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1907-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tongji.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "同济大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16955"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1911-03-30T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.tsinghua.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "清华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23101"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1940-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178972"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1924-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "65638"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.sysu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178972"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1924-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "65638"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.sysu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中山大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q197543"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1897-05-21T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "39000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zju.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q197543"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1897-05-21T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "39000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.zju.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "浙江大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q254204"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1919-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nankai.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南开大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q254204"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1919-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nankai.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南开大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q254204"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1919-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nankai.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南开大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257655"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1905-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q257655"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1905-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cau.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国农业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q495015"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1905-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "44300"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fudan.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "复旦大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q495015"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1905-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "44300"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.fudan.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "复旦大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://en.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q525169"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-12-06T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46443"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海交通大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8686"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "上海市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q549697"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1962-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "13000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.blcu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京语言大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q604470"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1901-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sdu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "山东大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q604470"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1901-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.sdu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "山东大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.hit.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q632558"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1920-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hit.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨工业大学"
+        },
+        "location": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42956"
+        },
+        "locationLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "哈尔滨市"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649868"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "0976-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649868"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1903-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "46000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.hnu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "湖南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q649906"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1931-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xidian.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西安电子科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q662131"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1915-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "33000"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.hhu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "河海大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q683580"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1915-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nju.edu.cn/main.htm"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q683580"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1915-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.nju.edu.cn/main.htm"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "南京大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q787360"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1984-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://cityu.edu.hk"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "香港城市大學"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832355"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2000-05-27T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.whut.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "武汉理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q832550"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1938-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwpu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北工业大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q833961"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "21325"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://en.cupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q833961"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-01-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "21325"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cupl.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中国政法大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834857"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1929-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cqu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "重庆大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q834857"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1929-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.cqu.edu.cn"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "重庆大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835366"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-11-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "42720"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.scut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华南理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835366"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-11-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "42720"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.scut.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华南理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835366"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-11-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "42720"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.scut.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华南理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835366"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1952-11-01T00:00:00Z"
+        },
+        "students": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "42720"
+        },
+        "website": {
+          "type": "uri",
+          "value": "https://www.scut.edu.cn/en/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "华南理工大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q835779"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.uibe.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "对外经济贸易大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q837544"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dhu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "东华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q837544"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1951-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.dhu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "东华大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q837873"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1950-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.cafa.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "中央美术学院"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q840443"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1906-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.swu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西南大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q981237"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西安交通大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q981237"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1896-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.xjtu.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西安交通大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985808"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1934-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwsuaf.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北农林科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q985808"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1934-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.nwsuaf.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "西北农林科技大学"
+        }
+      },
+      {
+        "university": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1039400"
+        },
+        "inception": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "1956-01-01T00:00:00Z"
+        },
+        "website": {
+          "type": "uri",
+          "value": "http://www.bucm.edu.cn/"
+        },
+        "universityLabel": {
+          "xml:lang": "zh",
+          "type": "literal",
+          "value": "北京中医药大学"
+        }
+      }
+    ]
+  }
+}

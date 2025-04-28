@@ -1,0 +1,394 @@
+[
+  {
+    "companyLabel": "腾讯",
+    "industryLabel": "娱乐",
+    "headquartersLabel": "深圳",
+    "employees": "265228",
+    "revenue": "5977亿元",
+    "inception": "2018-06-14"
+  },
+  {
+    "companyLabel": "阿里巴巴",
+    "industryLabel": "物流",
+    "headquartersLabel": "上海",
+    "employees": "26913",
+    "revenue": "8960亿元",
+    "inception": "2012-01-06"
+  },
+  {
+    "companyLabel": "百度",
+    "industryLabel": "电子商务",
+    "headquartersLabel": "深圳",
+    "employees": "228274",
+    "revenue": "9617亿元",
+    "inception": "2014-05-06"
+  },
+  {
+    "companyLabel": "京东",
+    "industryLabel": "娱乐",
+    "headquartersLabel": "南京",
+    "employees": "8731",
+    "revenue": "2475亿元",
+    "inception": "1960-07-16"
+  },
+  {
+    "companyLabel": "美团",
+    "industryLabel": "互联网",
+    "headquartersLabel": "广州",
+    "employees": "2247",
+    "revenue": "5444亿元",
+    "inception": "1958-11-16"
+  },
+  {
+    "companyLabel": "字节跳动",
+    "industryLabel": "互联网",
+    "headquartersLabel": "广州",
+    "employees": "98572",
+    "revenue": "3782亿元",
+    "inception": "1954-04-06"
+  },
+  {
+    "companyLabel": "小米",
+    "industryLabel": "农业",
+    "headquartersLabel": "成都",
+    "employees": "282092",
+    "revenue": "2314亿元",
+    "inception": "1985-07-12"
+  },
+  {
+    "companyLabel": "华为",
+    "industryLabel": "文化",
+    "headquartersLabel": "天津",
+    "employees": "208985",
+    "revenue": "7584亿元",
+    "inception": "1953-10-01"
+  },
+  {
+    "companyLabel": "中国移动",
+    "industryLabel": "采矿业",
+    "headquartersLabel": "济南",
+    "employees": "40335",
+    "revenue": "8999亿元",
+    "inception": "1951-02-10"
+  },
+  {
+    "companyLabel": "中国联通",
+    "industryLabel": "零售",
+    "headquartersLabel": "成都",
+    "employees": "131832",
+    "revenue": "4512亿元",
+    "inception": "1989-08-22"
+  },
+  {
+    "companyLabel": "中国电信",
+    "industryLabel": "采矿业",
+    "headquartersLabel": "福州",
+    "employees": "199026",
+    "revenue": "2442亿元",
+    "inception": "1981-03-03"
+  },
+  {
+    "companyLabel": "工商银行",
+    "industryLabel": "旅游",
+    "headquartersLabel": "杭州",
+    "employees": "23431",
+    "revenue": "5551亿元",
+    "inception": "1980-05-10"
+  },
+  {
+    "companyLabel": "农业银行",
+    "industryLabel": "金融",
+    "headquartersLabel": "杭州",
+    "employees": "201644",
+    "revenue": "4911亿元",
+    "inception": "1965-11-18"
+  },
+  {
+    "companyLabel": "中国银行",
+    "industryLabel": "医疗",
+    "headquartersLabel": "上海",
+    "employees": "244791",
+    "revenue": "696亿元",
+    "inception": "1956-07-13"
+  },
+  {
+    "companyLabel": "建设银行",
+    "industryLabel": "能源",
+    "headquartersLabel": "哈尔滨",
+    "employees": "82641",
+    "revenue": "4156亿元",
+    "inception": "1974-11-11"
+  },
+  {
+    "companyLabel": "国家电网",
+    "industryLabel": "餐饮",
+    "headquartersLabel": "西安",
+    "employees": "86597",
+    "revenue": "2746亿元",
+    "inception": "1988-04-20"
+  },
+  {
+    "companyLabel": "中国石油",
+    "industryLabel": "传媒",
+    "headquartersLabel": "厦门",
+    "employees": "69968",
+    "revenue": "2037亿元",
+    "inception": "1971-01-01"
+  },
+  {
+    "companyLabel": "中国石化",
+    "industryLabel": "娱乐",
+    "headquartersLabel": "北京",
+    "employees": "210934",
+    "revenue": "549亿元",
+    "inception": "1979-07-04"
+  },
+  {
+    "companyLabel": "中国铁路",
+    "industryLabel": "房地产",
+    "headquartersLabel": "济南",
+    "employees": "146830",
+    "revenue": "8404亿元",
+    "inception": "1977-05-17"
+  },
+  {
+    "companyLabel": "中国航空",
+    "industryLabel": "房地产",
+    "headquartersLabel": "厦门",
+    "employees": "119026",
+    "revenue": "6960亿元",
+    "inception": "2010-09-27"
+  },
+  {
+    "companyLabel": "中国海运",
+    "industryLabel": "农业",
+    "headquartersLabel": "重庆",
+    "employees": "9689",
+    "revenue": "1624亿元",
+    "inception": "2009-10-05"
+  },
+  {
+    "companyLabel": "中粮集团",
+    "industryLabel": "娱乐",
+    "headquartersLabel": "杭州",
+    "employees": "5479",
+    "revenue": "7934亿元",
+    "inception": "1978-09-16"
+  },
+  {
+    "companyLabel": "中国中车",
+    "industryLabel": "物流",
+    "headquartersLabel": "宁波",
+    "employees": "6161",
+    "revenue": "9023亿元",
+    "inception": "1995-12-07"
+  },
+  {
+    "companyLabel": "中国远洋",
+    "industryLabel": "制造业",
+    "headquartersLabel": "宁波",
+    "employees": "256079",
+    "revenue": "6280亿元",
+    "inception": "2013-09-07"
+  },
+  {
+    "companyLabel": "中国船舶",
+    "industryLabel": "传媒",
+    "headquartersLabel": "长沙",
+    "employees": "126897",
+    "revenue": "4809亿元",
+    "inception": "1968-08-26"
+  },
+  {
+    "companyLabel": "中国核电",
+    "industryLabel": "体育",
+    "headquartersLabel": "重庆",
+    "employees": "145799",
+    "revenue": "2698亿元",
+    "inception": "1980-06-23"
+  },
+  {
+    "companyLabel": "联想",
+    "industryLabel": "电子商务",
+    "headquartersLabel": "重庆",
+    "employees": "254379",
+    "revenue": "7991亿元",
+    "inception": "1992-09-11"
+  },
+  {
+    "companyLabel": "海尔",
+    "industryLabel": "餐饮",
+    "headquartersLabel": "南京",
+    "employees": "164923",
+    "revenue": "9273亿元",
+    "inception": "2019-05-28"
+  },
+  {
+    "companyLabel": "格力",
+    "industryLabel": "房地产",
+    "headquartersLabel": "深圳",
+    "employees": "260179",
+    "revenue": "7699亿元",
+    "inception": "1994-12-04"
+  },
+  {
+    "companyLabel": "TCL",
+    "industryLabel": "交通",
+    "headquartersLabel": "沈阳",
+    "employees": "167350",
+    "revenue": "9084亿元",
+    "inception": "1989-02-21"
+  },
+  {
+    "companyLabel": "中兴",
+    "industryLabel": "互联网",
+    "headquartersLabel": "北京",
+    "employees": "244426",
+    "revenue": "3444亿元",
+    "inception": "2017-01-25"
+  },
+  {
+    "companyLabel": "OPPO",
+    "industryLabel": "能源",
+    "headquartersLabel": "哈尔滨",
+    "employees": "189560",
+    "revenue": "1683亿元",
+    "inception": "2018-03-05"
+  },
+  {
+    "companyLabel": "VIVO",
+    "industryLabel": "制造业",
+    "headquartersLabel": "重庆",
+    "employees": "97494",
+    "revenue": "4932亿元",
+    "inception": "1971-10-17"
+  },
+  {
+    "companyLabel": "一加",
+    "industryLabel": "餐饮",
+    "headquartersLabel": "厦门",
+    "employees": "6764",
+    "revenue": "1858亿元",
+    "inception": "1955-02-24"
+  },
+  {
+    "companyLabel": "荣耀",
+    "industryLabel": "文化",
+    "headquartersLabel": "长沙",
+    "employees": "279102",
+    "revenue": "2053亿元",
+    "inception": "1950-05-18"
+  },
+  {
+    "companyLabel": "魅族",
+    "industryLabel": "娱乐",
+    "headquartersLabel": "青岛",
+    "employees": "15047",
+    "revenue": "3294亿元",
+    "inception": "1963-07-08"
+  },
+  {
+    "companyLabel": "贵州茅台",
+    "industryLabel": "餐饮",
+    "headquartersLabel": "沈阳",
+    "employees": "18513",
+    "revenue": "9036亿元",
+    "inception": "1957-07-14"
+  },
+  {
+    "companyLabel": "五粮液",
+    "industryLabel": "物流",
+    "headquartersLabel": "天津",
+    "employees": "85345",
+    "revenue": "3125亿元",
+    "inception": "1977-01-18"
+  },
+  {
+    "companyLabel": "泸州老窖",
+    "industryLabel": "采矿业",
+    "headquartersLabel": "广州",
+    "employees": "213791",
+    "revenue": "6655亿元",
+    "inception": "1996-05-05"
+  },
+  {
+    "companyLabel": "洋河股份",
+    "industryLabel": "传媒",
+    "headquartersLabel": "厦门",
+    "employees": "146724",
+    "revenue": "3588亿元",
+    "inception": "1950-12-23"
+  },
+  {
+    "companyLabel": "古井贡",
+    "industryLabel": "制造业",
+    "headquartersLabel": "深圳",
+    "employees": "62797",
+    "revenue": "8377亿元",
+    "inception": "1973-05-06"
+  },
+  {
+    "companyLabel": "青岛啤酒",
+    "industryLabel": "交通",
+    "headquartersLabel": "济南",
+    "employees": "32985",
+    "revenue": "2876亿元",
+    "inception": "2020-01-11"
+  },
+  {
+    "companyLabel": "燕京啤酒",
+    "industryLabel": "旅游",
+    "headquartersLabel": "西安",
+    "employees": "205209",
+    "revenue": "9745亿元",
+    "inception": "1972-12-09"
+  },
+  {
+    "companyLabel": "娃哈哈",
+    "industryLabel": "旅游",
+    "headquartersLabel": "福州",
+    "employees": "212825",
+    "revenue": "3563亿元",
+    "inception": "1999-05-24"
+  },
+  {
+    "companyLabel": "康师傅",
+    "industryLabel": "物流",
+    "headquartersLabel": "福州",
+    "employees": "30892",
+    "revenue": "4456亿元",
+    "inception": "1952-05-23"
+  },
+  {
+    "companyLabel": "伊利",
+    "industryLabel": "物流",
+    "headquartersLabel": "杭州",
+    "employees": "155108",
+    "revenue": "5047亿元",
+    "inception": "2001-05-27"
+  },
+  {
+    "companyLabel": "蒙牛",
+    "industryLabel": "农业",
+    "headquartersLabel": "厦门",
+    "employees": "87271",
+    "revenue": "4863亿元",
+    "inception": "1963-10-15"
+  },
+  {
+    "companyLabel": "光明",
+    "industryLabel": "体育",
+    "headquartersLabel": "武汉",
+    "employees": "291904",
+    "revenue": "771亿元",
+    "inception": "2000-07-14"
+  },
+  {
+    "companyLabel": "三元",
+    "industryLabel": "农业",
+    "headquartersLabel": "上海",
+    "employees": "34822",
+    "revenue": "2430亿元",
+    "inception": "1997-09-11"
+  }
+]

@@ -1,0 +1,4047 @@
+[
+  {
+    "city_id": "Q956",
+    "property": "population",
+    "value": "15380000"
+  },
+  {
+    "city_id": "Q956",
+    "property": "area",
+    "value": "16410.54"
+  },
+  {
+    "city_id": "Q956",
+    "property": "coordinates",
+    "value": "39.90403,116.407526"
+  },
+  {
+    "city_id": "Q956",
+    "property": "population",
+    "value": "19612368"
+  },
+  {
+    "city_id": "Q956",
+    "property": "area",
+    "value": "16410.54"
+  },
+  {
+    "city_id": "Q956",
+    "property": "coordinates",
+    "value": "39.90403,116.407526"
+  },
+  {
+    "city_id": "Q956",
+    "property": "population",
+    "value": "21705000"
+  },
+  {
+    "city_id": "Q956",
+    "property": "area",
+    "value": "16410.54"
+  },
+  {
+    "city_id": "Q956",
+    "property": "coordinates",
+    "value": "39.90403,116.407526"
+  },
+  {
+    "city_id": "Q956",
+    "property": "population",
+    "value": "21710000"
+  },
+  {
+    "city_id": "Q956",
+    "property": "area",
+    "value": "16410.54"
+  },
+  {
+    "city_id": "Q956",
+    "property": "coordinates",
+    "value": "39.90403,116.407526"
+  },
+  {
+    "city_id": "Q956",
+    "property": "population",
+    "value": "21893095"
+  },
+  {
+    "city_id": "Q956",
+    "property": "area",
+    "value": "16410.54"
+  },
+  {
+    "city_id": "Q956",
+    "property": "coordinates",
+    "value": "39.90403,116.407526"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12183280"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12952907"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12183280"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12183280"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12952907"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12952907"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "population",
+    "value": "867891"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "area",
+    "value": "29634.01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "coordinates",
+    "value": "29.6457567,91.1408186"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "inception",
+    "value": "0633-01-01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "population",
+    "value": "902500"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "area",
+    "value": "29634.01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "coordinates",
+    "value": "29.6457567,91.1408186"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "inception",
+    "value": "0633-01-01"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "population",
+    "value": "7413070"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "area",
+    "value": "1105.69"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "coordinates",
+    "value": "22.278333333333,114.15861111111"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "inception",
+    "value": "1997-07-01"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "population",
+    "value": "7413070"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "area",
+    "value": "1105.69"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "coordinates",
+    "value": "22.278333333333,114.15861111111"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "inception",
+    "value": "1997-07-01"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "population",
+    "value": "7413070"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "area",
+    "value": "1649.34"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "coordinates",
+    "value": "22.278333333333,114.15861111111"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "inception",
+    "value": "1997-07-01"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "population",
+    "value": "7413070"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "area",
+    "value": "1649.34"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "coordinates",
+    "value": "22.278333333333,114.15861111111"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "inception",
+    "value": "1997-07-01"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "population",
+    "value": "7413070"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "area",
+    "value": "2755.03"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "coordinates",
+    "value": "22.278333333333,114.15861111111"
+  },
+  {
+    "city_id": "Q8646",
+    "property": "inception",
+    "value": "1997-07-01"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "population",
+    "value": "5163970"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "area",
+    "value": "1699.39"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "coordinates",
+    "value": "24.479722222222,118.08194444444"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "population",
+    "value": "2208708"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "area",
+    "value": "7606.78"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "coordinates",
+    "value": "36.62386,101.77866"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "population",
+    "value": "2467965"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "area",
+    "value": "7606.78"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "coordinates",
+    "value": "36.62386,101.77866"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "population",
+    "value": "6690432"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "area",
+    "value": "13630.44"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "coordinates",
+    "value": "38.9,121.6"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "inception",
+    "value": "1904-01-01"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "population",
+    "value": "7450785"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "area",
+    "value": "13630.44"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "coordinates",
+    "value": "38.9,121.6"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "inception",
+    "value": "1904-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "population",
+    "value": "5187200"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "area",
+    "value": "1210.41"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "coordinates",
+    "value": "31.223055555556,121.53972222222"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "inception",
+    "value": "1993-01-01"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "population",
+    "value": "5681512"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "area",
+    "value": "1210.41"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "coordinates",
+    "value": "31.223055555556,121.53972222222"
+  },
+  {
+    "city_id": "Q125378",
+    "property": "inception",
+    "value": "1993-01-01"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "population",
+    "value": "5775000"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "area",
+    "value": "11282"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "coordinates",
+    "value": "36.116666666667,120.4"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "population",
+    "value": "10071722"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "area",
+    "value": "11282"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "coordinates",
+    "value": "36.116666666667,120.4"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "3616163"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "4359446"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "3616163"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "4359446"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "1776141"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "2873358"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "1776141"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "2873358"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  },
+  {
+    "city_id": "Q464904",
+    "property": "area",
+    "value": "414"
+  },
+  {
+    "city_id": "Q464904",
+    "property": "coordinates",
+    "value": "36.139444444444,114.30305555556"
+  },
+  {
+    "city_id": "Q464904",
+    "property": "area",
+    "value": "720"
+  },
+  {
+    "city_id": "Q464904",
+    "property": "coordinates",
+    "value": "36.139444444444,114.30305555556"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "area",
+    "value": "25131.27"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "coordinates",
+    "value": "42.359722222222,116.17916666667"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "area",
+    "value": "150721.96"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "coordinates",
+    "value": "42.359722222222,116.17916666667"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "area",
+    "value": "25131.27"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "coordinates",
+    "value": "42.359722222222,116.17916666667"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "area",
+    "value": "150721.96"
+  },
+  {
+    "city_id": "Q471765",
+    "property": "coordinates",
+    "value": "42.359722222222,116.17916666667"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "population",
+    "value": "1973752"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "area",
+    "value": "2389.2"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "coordinates",
+    "value": "39.003333333333,117.71083333333"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "inception",
+    "value": "2009-01-01"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "population",
+    "value": "2482065"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "area",
+    "value": "2389.2"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "coordinates",
+    "value": "39.003333333333,117.71083333333"
+  },
+  {
+    "city_id": "Q708605",
+    "property": "inception",
+    "value": "2009-01-01"
+  },
+  {
+    "city_id": "Q711386",
+    "property": "area",
+    "value": "59.24"
+  },
+  {
+    "city_id": "Q711386",
+    "property": "coordinates",
+    "value": "41.12083333,126.17861111"
+  },
+  {
+    "city_id": "Q806929",
+    "property": "coordinates",
+    "value": "34.27444444,109.0475"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.402778,94.904167"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.73975,93.54239"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "215214"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "population",
+    "value": "221863"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "area",
+    "value": "119173.5"
+  },
+  {
+    "city_id": "Q858250",
+    "property": "coordinates",
+    "value": "36.40672,94.90061"
+  },
+  {
+    "city_id": "Q865988",
+    "property": "coordinates",
+    "value": "36.8829,118.3554"
+  },
+  {
+    "city_id": "Q897898",
+    "property": "coordinates",
+    "value": "37.9975,108.863"
+  },
+  {
+    "city_id": "Q1274372",
+    "property": "coordinates",
+    "value": "36.2748,114.4002"
+  },
+  {
+    "city_id": "Q1330939",
+    "property": "area",
+    "value": "680.33"
+  },
+  {
+    "city_id": "Q1330939",
+    "property": "coordinates",
+    "value": "42.95051742,89.06393051"
+  },
+  {
+    "city_id": "Q1330939",
+    "property": "area",
+    "value": "2522.25"
+  },
+  {
+    "city_id": "Q1330939",
+    "property": "coordinates",
+    "value": "42.95051742,89.06393051"
+  },
+  {
+    "city_id": "Q1504476",
+    "property": "coordinates",
+    "value": "30.422778,112.173333"
+  },
+  {
+    "city_id": "Q2009698",
+    "property": "coordinates",
+    "value": "33.31666667,109.5"
+  },
+  {
+    "city_id": "Q2360265",
+    "property": "coordinates",
+    "value": "34.413889,108.857778"
+  },
+  {
+    "city_id": "Q2692927",
+    "property": "coordinates",
+    "value": "34.6925,112.69"
+  },
+  {
+    "city_id": "Q4770687",
+    "property": "coordinates",
+    "value": "40.780555555556,122.77805555556"
+  },
+  {
+    "city_id": "Q4770687",
+    "property": "inception",
+    "value": "0317-01-01"
+  },
+  {
+    "city_id": "Q4881072",
+    "property": "coordinates",
+    "value": "39.55,112.96666667"
+  },
+  {
+    "city_id": "Q5364678",
+    "property": "coordinates",
+    "value": "39.6169,116.056"
+  },
+  {
+    "city_id": "Q5698503",
+    "property": "coordinates",
+    "value": "32.6,120.13333333"
+  },
+  {
+    "city_id": "Q10565818",
+    "property": "coordinates",
+    "value": "34.66768,112.41452"
+  },
+  {
+    "city_id": "Q10565818",
+    "property": "inception",
+    "value": "-1020-01-01"
+  },
+  {
+    "city_id": "Q15912864",
+    "property": "coordinates",
+    "value": "25.22917,100.30834"
+  },
+  {
+    "city_id": "Q15912864",
+    "property": "inception",
+    "value": "1390-01-01"
+  },
+  {
+    "city_id": "Q15922612",
+    "property": "coordinates",
+    "value": "26.92294,100.20357"
+  },
+  {
+    "city_id": "Q85877720",
+    "property": "coordinates",
+    "value": "39.470369444444,75.989136111111"
+  },
+  {
+    "city_id": "Q104852075",
+    "property": "area",
+    "value": "23"
+  },
+  {
+    "city_id": "Q124540171",
+    "property": "population",
+    "value": "12135000"
+  },
+  {
+    "city_id": "Q124540171",
+    "property": "coordinates",
+    "value": "29.55,106.50694444444"
+  },
+  {
+    "city_id": "Q124540171",
+    "property": "inception",
+    "value": "1929-01-01"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "population",
+    "value": "11936010"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "area",
+    "value": "16853.57"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "coordinates",
+    "value": "30.25,120.1675"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "population",
+    "value": "11936010"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "area",
+    "value": "16853.57"
+  },
+  {
+    "city_id": "Q4970",
+    "property": "coordinates",
+    "value": "30.25,120.1675"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12183280"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "population",
+    "value": "12952907"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "area",
+    "value": "10096.81"
+  },
+  {
+    "city_id": "Q5826",
+    "property": "coordinates",
+    "value": "34.261111111111,108.94222222222"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "population",
+    "value": "867891"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "area",
+    "value": "29634.01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "coordinates",
+    "value": "29.6457567,91.1408186"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "inception",
+    "value": "0633-01-01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "population",
+    "value": "902500"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "area",
+    "value": "29634.01"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "coordinates",
+    "value": "29.6457567,91.1408186"
+  },
+  {
+    "city_id": "Q5869",
+    "property": "inception",
+    "value": "0633-01-01"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "population",
+    "value": "9070093"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "area",
+    "value": "12859.89"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "coordinates",
+    "value": "41.8025,123.42805555556"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "population",
+    "value": "9070093"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "area",
+    "value": "12859.89"
+  },
+  {
+    "city_id": "Q11720",
+    "property": "coordinates",
+    "value": "41.8025,123.42805555556"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "population",
+    "value": "12326518"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "area",
+    "value": "8569.15"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "coordinates",
+    "value": "30.587222222222,114.28805555556"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "population",
+    "value": "12326518"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "area",
+    "value": "8569.15"
+  },
+  {
+    "city_id": "Q11746",
+    "property": "coordinates",
+    "value": "30.587222222222,114.28805555556"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "population",
+    "value": "682100"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "area",
+    "value": "115.3"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "coordinates",
+    "value": "22.19,113.53805555556"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "inception",
+    "value": "1557-01-01"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "population",
+    "value": "682100"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "area",
+    "value": "115.3"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "coordinates",
+    "value": "22.19,113.53805555556"
+  },
+  {
+    "city_id": "Q14773",
+    "property": "inception",
+    "value": "1999-12-20"
+  },
+  {
+    "city_id": "Q15174",
+    "property": "population",
+    "value": "17494398"
+  },
+  {
+    "city_id": "Q15174",
+    "property": "area",
+    "value": "1997.27"
+  },
+  {
+    "city_id": "Q15174",
+    "property": "coordinates",
+    "value": "22.535,114.054"
+  },
+  {
+    "city_id": "Q15174",
+    "property": "inception",
+    "value": "1979-01-01"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "population",
+    "value": "13080500"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "area",
+    "value": "7248.86"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "coordinates",
+    "value": "23.13,113.26"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "population",
+    "value": "18676605"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "area",
+    "value": "7248.86"
+  },
+  {
+    "city_id": "Q16572",
+    "property": "coordinates",
+    "value": "23.13,113.26"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "population",
+    "value": "8187800"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "area",
+    "value": "6587.02"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "coordinates",
+    "value": "32.060833333333,118.77888888889"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "inception",
+    "value": "-0494-01-01"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "population",
+    "value": "9314685"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "area",
+    "value": "6587.02"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "coordinates",
+    "value": "32.060833333333,118.77888888889"
+  },
+  {
+    "city_id": "Q16666",
+    "property": "inception",
+    "value": "-0494-01-01"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "population",
+    "value": "3112559"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "area",
+    "value": "13783.1"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "coordinates",
+    "value": "43.8225,87.6125"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "population",
+    "value": "4054369"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "area",
+    "value": "13783.1"
+  },
+  {
+    "city_id": "Q16959",
+    "property": "coordinates",
+    "value": "43.8225,87.6125"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "population",
+    "value": "5577814"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "area",
+    "value": "5265.38"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "coordinates",
+    "value": "23.55334,116.36495"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "population",
+    "value": "6089400"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "area",
+    "value": "5265.38"
+  },
+  {
+    "city_id": "Q26323",
+    "property": "coordinates",
+    "value": "23.55334,116.36495"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "population",
+    "value": "1502060"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "area",
+    "value": "22494.48"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "coordinates",
+    "value": "45.29366,130.96496"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "population",
+    "value": "1862165"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "area",
+    "value": "22494.48"
+  },
+  {
+    "city_id": "Q28979",
+    "property": "coordinates",
+    "value": "45.29366,130.96496"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "population",
+    "value": "6270700"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "area",
+    "value": "30766.87"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "coordinates",
+    "value": "27.70498,106.93363"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "population",
+    "value": "6606675"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "area",
+    "value": "30766.87"
+  },
+  {
+    "city_id": "Q28994",
+    "property": "coordinates",
+    "value": "27.70498,106.93363"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "population",
+    "value": "2703853"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "area",
+    "value": "10039.99"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "coordinates",
+    "value": "41.114444444444,121.12916666667"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "population",
+    "value": "3126463"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "area",
+    "value": "10039.99"
+  },
+  {
+    "city_id": "Q28996",
+    "property": "coordinates",
+    "value": "41.114444444444,121.12916666667"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "population",
+    "value": "2156505"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "area",
+    "value": "32469.98"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "coordinates",
+    "value": "46.80808,130.36531"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "population",
+    "value": "2552097"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "area",
+    "value": "32469.98"
+  },
+  {
+    "city_id": "Q29003",
+    "property": "coordinates",
+    "value": "46.80808,130.36531"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "population",
+    "value": "2489256"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "area",
+    "value": "4372.46"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "coordinates",
+    "value": "29.349842,104.764514"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "inception",
+    "value": "1939-09-01"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "population",
+    "value": "2678899"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "area",
+    "value": "4372.46"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "coordinates",
+    "value": "29.349842,104.764514"
+  },
+  {
+    "city_id": "Q29015",
+    "property": "inception",
+    "value": "1939-09-01"
+  },
+  {
+    "city_id": "Q30002",
+    "property": "population",
+    "value": "20937757"
+  },
+  {
+    "city_id": "Q30002",
+    "property": "area",
+    "value": "14378"
+  },
+  {
+    "city_id": "Q30002",
+    "property": "coordinates",
+    "value": "30.66,104.06333333333"
+  },
+  {
+    "city_id": "Q30002",
+    "property": "inception",
+    "value": "-0310-01-01"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "population",
+    "value": "10136000"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "area",
+    "value": "7567.18"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "coordinates",
+    "value": "34.74919,113.66051"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "population",
+    "value": "12600574"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "area",
+    "value": "7567.18"
+  },
+  {
+    "city_id": "Q30340",
+    "property": "coordinates",
+    "value": "34.74919,113.66051"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "population",
+    "value": "1618979"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "area",
+    "value": "5262.17"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "coordinates",
+    "value": "29.294167,117.203611"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "population",
+    "value": "1673200"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "area",
+    "value": "5262.17"
+  },
+  {
+    "city_id": "Q34405",
+    "property": "coordinates",
+    "value": "29.294167,117.203611"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "population",
+    "value": "7905700"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "area",
+    "value": "3797.72"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "coordinates",
+    "value": "23.029167,113.105556"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "population",
+    "value": "9498863"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "area",
+    "value": "3797.72"
+  },
+  {
+    "city_id": "Q34412",
+    "property": "coordinates",
+    "value": "23.029167,113.105556"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "population",
+    "value": "1647280"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "area",
+    "value": "10326.99"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "coordinates",
+    "value": "42.012669,121.648553"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "population",
+    "value": "1819339"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "area",
+    "value": "10326.99"
+  },
+  {
+    "city_id": "Q34750",
+    "property": "coordinates",
+    "value": "42.012669,121.648553"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "population",
+    "value": "6174050"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "area",
+    "value": "11427.07"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "coordinates",
+    "value": "21.66182,110.91783"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "population",
+    "value": "6313200"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "area",
+    "value": "11427.07"
+  },
+  {
+    "city_id": "Q38927",
+    "property": "coordinates",
+    "value": "21.66182,110.91783"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "population",
+    "value": "4041700"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "area",
+    "value": "18596.64"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "coordinates",
+    "value": "24.3264,109.4281"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "population",
+    "value": "4157934"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "area",
+    "value": "18596.64"
+  },
+  {
+    "city_id": "Q38968",
+    "property": "coordinates",
+    "value": "24.3264,109.4281"
+  },
+  {
+    "city_id": "Q42622",
+    "property": "population",
+    "value": "12748262"
+  },
+  {
+    "city_id": "Q42622",
+    "property": "area",
+    "value": "8657.32"
+  },
+  {
+    "city_id": "Q42622",
+    "property": "coordinates",
+    "value": "31.3,120.61944444444"
+  },
+  {
+    "city_id": "Q42635",
+    "property": "population",
+    "value": "9572903"
+  },
+  {
+    "city_id": "Q42635",
+    "property": "area",
+    "value": "12064.77"
+  },
+  {
+    "city_id": "Q42635",
+    "property": "coordinates",
+    "value": "27.999128,120.656075"
+  },
+  {
+    "city_id": "Q42651",
+    "property": "population",
+    "value": "7462135"
+  },
+  {
+    "city_id": "Q42651",
+    "property": "area",
+    "value": "4627.46"
+  },
+  {
+    "city_id": "Q42651",
+    "property": "coordinates",
+    "value": "31.566667,120.283333"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "population",
+    "value": "2893542"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "area",
+    "value": "5820.26"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "coordinates",
+    "value": "30.8925,120.0875"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "population",
+    "value": "3367579"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "area",
+    "value": "5820.26"
+  },
+  {
+    "city_id": "Q42664",
+    "property": "coordinates",
+    "value": "30.8925,120.0875"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "population",
+    "value": "5270977"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "area",
+    "value": "8279.08"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "coordinates",
+    "value": "30.00237,120.57864"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "population",
+    "value": "5270977"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "area",
+    "value": "8279.08"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "coordinates",
+    "value": "30.00237,120.57864"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "population",
+    "value": "5270977"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "area",
+    "value": "8279.08"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "coordinates",
+    "value": "30.0,120.58333333333"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "population",
+    "value": "5270977"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "area",
+    "value": "8279.08"
+  },
+  {
+    "city_id": "Q42666",
+    "property": "coordinates",
+    "value": "30.0,120.58333333333"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "population",
+    "value": "7639000"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "area",
+    "value": "9365.58"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "coordinates",
+    "value": "29.875,121.54916666667"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "population",
+    "value": "9404283"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "area",
+    "value": "9365.58"
+  },
+  {
+    "city_id": "Q42780",
+    "property": "coordinates",
+    "value": "29.875,121.54916666667"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "population",
+    "value": "8669000"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "area",
+    "value": "11764.88"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "coordinates",
+    "value": "34.26104,117.18587"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "population",
+    "value": "9083790"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "area",
+    "value": "11764.88"
+  },
+  {
+    "city_id": "Q57719",
+    "property": "coordinates",
+    "value": "34.26104,117.18587"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "population",
+    "value": "4393482"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "area",
+    "value": "7615.29"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "coordinates",
+    "value": "34.59057,119.1801"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "inception",
+    "value": "1935-04-01"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "population",
+    "value": "4599360"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "area",
+    "value": "7615.29"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "coordinates",
+    "value": "34.59057,119.1801"
+  },
+  {
+    "city_id": "Q57756",
+    "property": "inception",
+    "value": "1935-04-01"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "population",
+    "value": "4719178"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "area",
+    "value": "8524.29"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "coordinates",
+    "value": "33.933056,118.283056"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "population",
+    "value": "4986192"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "area",
+    "value": "8524.29"
+  },
+  {
+    "city_id": "Q57787",
+    "property": "coordinates",
+    "value": "33.933056,118.283056"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "population",
+    "value": "4556230"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "area",
+    "value": "10029.54"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "coordinates",
+    "value": "33.58861,119.01917"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "population",
+    "value": "4556230"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "area",
+    "value": "10029.54"
+  },
+  {
+    "city_id": "Q57818",
+    "property": "coordinates",
+    "value": "33.505833333333,119.13916666667"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "population",
+    "value": "6709629"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "area",
+    "value": "16931.29"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "coordinates",
+    "value": "33.35,120.15694444444"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "population",
+    "value": "7260240"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "area",
+    "value": "16931.29"
+  },
+  {
+    "city_id": "Q57866",
+    "property": "coordinates",
+    "value": "33.35,120.15694444444"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "population",
+    "value": "4459760"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "area",
+    "value": "6591.21"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "coordinates",
+    "value": "32.39117,119.43625"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "population",
+    "value": "4559797"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "area",
+    "value": "6591.21"
+  },
+  {
+    "city_id": "Q57906",
+    "property": "coordinates",
+    "value": "32.39117,119.43625"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "population",
+    "value": "7967400"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "area",
+    "value": "10244.45"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "coordinates",
+    "value": "36.666666666667,116.98333333333"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "population",
+    "value": "9202432"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "area",
+    "value": "10244.45"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "coordinates",
+    "value": "36.666666666667,116.98333333333"
+  },
+  {
+    "city_id": "Q1057551",
+    "property": "coordinates",
+    "value": "40.527633333333,89.840644444444"
+  },
+  {
+    "city_id": "Q1057551",
+    "property": "inception",
+    "value": "-0200-01-01"
+  },
+  {
+    "city_id": "Q8044291",
+    "property": "coordinates",
+    "value": "33.7167,113.967"
+  },
+  {
+    "city_id": "Q10885263",
+    "property": "coordinates",
+    "value": "37.02636,99.58279"
+  },
+  {
+    "city_id": "Q10923028",
+    "property": "coordinates",
+    "value": "34.266666666667,108.9"
+  },
+  {
+    "city_id": "Q11133430",
+    "property": "area",
+    "value": "1088.38"
+  },
+  {
+    "city_id": "Q11133430",
+    "property": "coordinates",
+    "value": "34.726111111111,112.60638888889"
+  },
+  {
+    "city_id": "Q11133430",
+    "property": "area",
+    "value": "8882.06"
+  },
+  {
+    "city_id": "Q11133430",
+    "property": "coordinates",
+    "value": "34.726111111111,112.60638888889"
+  },
+  {
+    "city_id": "Q13814733",
+    "property": "coordinates",
+    "value": "34.06854,113.68523"
+  },
+  {
+    "city_id": "Q14205326",
+    "property": "coordinates",
+    "value": "29.5699,103.4481"
+  },
+  {
+    "city_id": "Q15924011",
+    "property": "coordinates",
+    "value": "33.999166666667,114.02027777778"
+  },
+  {
+    "city_id": "Q15927358",
+    "property": "coordinates",
+    "value": "36.611666666667,114.48944444444"
+  },
+  {
+    "city_id": "Q16510368",
+    "property": "coordinates",
+    "value": "34.8,114.35"
+  },
+  {
+    "city_id": "Q17026198",
+    "property": "coordinates",
+    "value": "34.396916666667,113.753"
+  },
+  {
+    "city_id": "Q17498633",
+    "property": "coordinates",
+    "value": "29.6,118.983"
+  },
+  {
+    "city_id": "Q24036336",
+    "property": "area",
+    "value": "4"
+  },
+  {
+    "city_id": "Q24036336",
+    "property": "coordinates",
+    "value": "38.569474,110.318652"
+  },
+  {
+    "city_id": "Q48880737",
+    "property": "coordinates",
+    "value": "32.05,118.76666666667"
+  },
+  {
+    "city_id": "Q49279284",
+    "property": "coordinates",
+    "value": "38.13407,85.52977"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "population",
+    "value": "24870895"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "area",
+    "value": "6341"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "coordinates",
+    "value": "31.222222222222,121.45805555556"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "inception",
+    "value": "1949-10-01"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "population",
+    "value": "24870895"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "area",
+    "value": "6341"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "coordinates",
+    "value": "31.2323437,121.4691024"
+  },
+  {
+    "city_id": "Q8686",
+    "property": "inception",
+    "value": "1949-10-01"
+  },
+  {
+    "city_id": "Q68481",
+    "property": "population",
+    "value": "8291268"
+  },
+  {
+    "city_id": "Q68481",
+    "property": "area",
+    "value": "12250.72"
+  },
+  {
+    "city_id": "Q68481",
+    "property": "coordinates",
+    "value": "26.076944444444,119.29166666667"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "population",
+    "value": "2680645"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "area",
+    "value": "26279.67"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "coordinates",
+    "value": "26.64481,118.17282"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "population",
+    "value": "2690000"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "area",
+    "value": "26279.67"
+  },
+  {
+    "city_id": "Q68534",
+    "property": "coordinates",
+    "value": "26.64481,118.17282"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "population",
+    "value": "2900000"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "area",
+    "value": "4130.78"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "coordinates",
+    "value": "25.439444,119.010278"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "population",
+    "value": "3210714"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "area",
+    "value": "4130.78"
+  },
+  {
+    "city_id": "Q68579",
+    "property": "coordinates",
+    "value": "25.439444,119.010278"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "population",
+    "value": "2486450"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "area",
+    "value": "22964.77"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "coordinates",
+    "value": "26.2658,117.63017"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "population",
+    "value": "2580000"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "area",
+    "value": "22964.77"
+  },
+  {
+    "city_id": "Q68614",
+    "property": "coordinates",
+    "value": "26.2658,117.63017"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "population",
+    "value": "6480000"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "area",
+    "value": "11286.59"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "coordinates",
+    "value": "24.91389,118.58583"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "inception",
+    "value": "0260-01-01"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "population",
+    "value": "8782285"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "area",
+    "value": "11286.59"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "coordinates",
+    "value": "24.91389,118.58583"
+  },
+  {
+    "city_id": "Q68695",
+    "property": "inception",
+    "value": "0260-01-01"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "population",
+    "value": "5163970"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "area",
+    "value": "1699.39"
+  },
+  {
+    "city_id": "Q68744",
+    "property": "coordinates",
+    "value": "24.479722222222,118.08194444444"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "population",
+    "value": "5054328"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "area",
+    "value": "12879.62"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "coordinates",
+    "value": "24.50932,117.66117"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "population",
+    "value": "5140000"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "area",
+    "value": "12879.62"
+  },
+  {
+    "city_id": "Q68814",
+    "property": "coordinates",
+    "value": "24.50932,117.66117"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "population",
+    "value": "2640000"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "area",
+    "value": "19027.62"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "coordinates",
+    "value": "25.088056,117.024444"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "population",
+    "value": "2723637"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "area",
+    "value": "19027.62"
+  },
+  {
+    "city_id": "Q68862",
+    "property": "coordinates",
+    "value": "25.088056,117.024444"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "population",
+    "value": "2910000"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "area",
+    "value": "13431.98"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "coordinates",
+    "value": "26.661666666667,119.52277777778"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "population",
+    "value": "3146789"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "area",
+    "value": "13431.98"
+  },
+  {
+    "city_id": "Q68919",
+    "property": "coordinates",
+    "value": "26.661666666667,119.52277777778"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "population",
+    "value": "2208708"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "area",
+    "value": "7606.78"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "coordinates",
+    "value": "36.62386,101.77866"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "population",
+    "value": "2467965"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "area",
+    "value": "7606.78"
+  },
+  {
+    "city_id": "Q69060",
+    "property": "coordinates",
+    "value": "36.62386,101.77866"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "population",
+    "value": "2469079"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "area",
+    "value": "4564.56"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "coordinates",
+    "value": "30.20178,115.03262"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "population",
+    "value": "2471700"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "area",
+    "value": "4564.56"
+  },
+  {
+    "city_id": "Q71204",
+    "property": "coordinates",
+    "value": "30.20178,115.03262"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "population",
+    "value": "3209004"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "area",
+    "value": "23666.16"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "coordinates",
+    "value": "32.63507,110.7755"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "population",
+    "value": "3398000"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "area",
+    "value": "23666.16"
+  },
+  {
+    "city_id": "Q71227",
+    "property": "coordinates",
+    "value": "32.63507,110.7755"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "population",
+    "value": "5231180"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "area",
+    "value": "14099.21"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "coordinates",
+    "value": "30.324444444444,112.23611111111"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "population",
+    "value": "5570100"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "area",
+    "value": "14099.21"
+  },
+  {
+    "city_id": "Q71247",
+    "property": "coordinates",
+    "value": "30.324444444444,112.23611111111"
+  },
+  {
+    "city_id": "Q71266",
+    "property": "population",
+    "value": "4017607"
+  },
+  {
+    "city_id": "Q71266",
+    "property": "area",
+    "value": "21230.14"
+  },
+  {
+    "city_id": "Q71266",
+    "property": "coordinates",
+    "value": "30.708333,111.280278"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "population",
+    "value": "5260951"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "area",
+    "value": "19727.68"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "coordinates",
+    "value": "32.06536,112.15307"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "population",
+    "value": "5680000"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "area",
+    "value": "19727.68"
+  },
+  {
+    "city_id": "Q71284",
+    "property": "coordinates",
+    "value": "32.06536,112.15307"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "population",
+    "value": "1059700"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "area",
+    "value": "1596.46"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "coordinates",
+    "value": "30.39724,114.88418"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "population",
+    "value": "1079353"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "area",
+    "value": "1596.46"
+  },
+  {
+    "city_id": "Q71305",
+    "property": "coordinates",
+    "value": "30.39724,114.88418"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "population",
+    "value": "2596927"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "area",
+    "value": "12339.43"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "coordinates",
+    "value": "31.038055555556,112.21138888889"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "population",
+    "value": "2897500"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "area",
+    "value": "12339.43"
+  },
+  {
+    "city_id": "Q71323",
+    "property": "coordinates",
+    "value": "31.038055555556,112.21138888889"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "population",
+    "value": "4270371"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "area",
+    "value": "8904.41"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "coordinates",
+    "value": "30.92731,113.91096"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "population",
+    "value": "4921000"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "area",
+    "value": "8904.41"
+  },
+  {
+    "city_id": "Q71339",
+    "property": "coordinates",
+    "value": "30.92731,113.91096"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "population",
+    "value": "5882719"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "area",
+    "value": "17457.2"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "coordinates",
+    "value": "30.45,114.875"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "population",
+    "value": "6333000"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "area",
+    "value": "17457.2"
+  },
+  {
+    "city_id": "Q71355",
+    "property": "coordinates",
+    "value": "30.45,114.875"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "population",
+    "value": "2548400"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "area",
+    "value": "9751.5"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "coordinates",
+    "value": "29.83411,114.32882"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "population",
+    "value": "2658316"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "area",
+    "value": "9751.5"
+  },
+  {
+    "city_id": "Q71373",
+    "property": "coordinates",
+    "value": "29.83411,114.32882"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "population",
+    "value": "2047923"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "area",
+    "value": "9613.86"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "coordinates",
+    "value": "31.71755,113.3658"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "population",
+    "value": "2221000"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "area",
+    "value": "9613.86"
+  },
+  {
+    "city_id": "Q71401",
+    "property": "coordinates",
+    "value": "31.71755,113.3658"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "1350000"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "1712000"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "1900000"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "4201592"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "4300000"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "population",
+    "value": "5304061"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "area",
+    "value": "6909.01"
+  },
+  {
+    "city_id": "Q72778",
+    "property": "coordinates",
+    "value": "37.87326,112.54245"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "population",
+    "value": "3105591"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "area",
+    "value": "14056.4"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "coordinates",
+    "value": "40.093611111111,113.29138888889"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "population",
+    "value": "3318054"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "area",
+    "value": "14056.4"
+  },
+  {
+    "city_id": "Q72877",
+    "property": "coordinates",
+    "value": "40.093611111111,113.29138888889"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "population",
+    "value": "1318505"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "area",
+    "value": "4558.93"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "coordinates",
+    "value": "37.8576,113.57623"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "population",
+    "value": "1368502"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "area",
+    "value": "4558.93"
+  },
+  {
+    "city_id": "Q72907",
+    "property": "coordinates",
+    "value": "37.8576,113.57623"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3180884"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.45564,112.88436"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3334565"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.45564,112.88436"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3180884"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.45564,112.88436"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3334565"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.45564,112.88436"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3180884"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.19529,113.09695"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3334565"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.19529,113.09695"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3180884"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.19529,113.09695"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "population",
+    "value": "3334565"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "area",
+    "value": "13955.22"
+  },
+  {
+    "city_id": "Q72945",
+    "property": "coordinates",
+    "value": "36.19529,113.09695"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "population",
+    "value": "2194545"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "area",
+    "value": "9424.87"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "coordinates",
+    "value": "35.49056,112.8483"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "population",
+    "value": "2279146"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "area",
+    "value": "9424.87"
+  },
+  {
+    "city_id": "Q72990",
+    "property": "coordinates",
+    "value": "35.49056,112.8483"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "population",
+    "value": "1593444"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "area",
+    "value": "10625.39"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "coordinates",
+    "value": "39.34078,112.42923"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "population",
+    "value": "1714857"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "area",
+    "value": "10625.39"
+  },
+  {
+    "city_id": "Q73020",
+    "property": "coordinates",
+    "value": "39.34078,112.42923"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "population",
+    "value": "3249425"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "area",
+    "value": "16391.98"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "coordinates",
+    "value": "37.69332,112.74164"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "population",
+    "value": "3379498"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "area",
+    "value": "16391.98"
+  },
+  {
+    "city_id": "Q73045",
+    "property": "coordinates",
+    "value": "37.69332,112.74164"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "population",
+    "value": "4774508"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "area",
+    "value": "14182.78"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "coordinates",
+    "value": "35.03042,110.99796"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "population",
+    "value": "5134779"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "area",
+    "value": "14182.78"
+  },
+  {
+    "city_id": "Q73073",
+    "property": "coordinates",
+    "value": "35.03042,110.99796"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "population",
+    "value": "2689668"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "area",
+    "value": "25151.55"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "coordinates",
+    "value": "38.41778,112.7233"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "inception",
+    "value": "2000-06-14"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "population",
+    "value": "3067501"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "area",
+    "value": "25151.55"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "coordinates",
+    "value": "38.41778,112.7233"
+  },
+  {
+    "city_id": "Q73119",
+    "property": "inception",
+    "value": "2000-06-14"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "population",
+    "value": "3976481"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "area",
+    "value": "20302.16"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "coordinates",
+    "value": "36.08121,111.50865"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "population",
+    "value": "4316610"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "area",
+    "value": "20302.16"
+  },
+  {
+    "city_id": "Q73156",
+    "property": "coordinates",
+    "value": "36.08121,111.50865"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "population",
+    "value": "3398431"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "area",
+    "value": "21139.5"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "coordinates",
+    "value": "37.52028,111.13545"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "population",
+    "value": "3727068"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "area",
+    "value": "21139.5"
+  },
+  {
+    "city_id": "Q73186",
+    "property": "coordinates",
+    "value": "37.52028,111.13545"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "population",
+    "value": "6690432"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "area",
+    "value": "13630.44"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "coordinates",
+    "value": "38.9,121.6"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "inception",
+    "value": "1904-01-01"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "population",
+    "value": "7450785"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "area",
+    "value": "13630.44"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "coordinates",
+    "value": "38.9,121.6"
+  },
+  {
+    "city_id": "Q74881",
+    "property": "inception",
+    "value": "1904-01-01"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "population",
+    "value": "3325372"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "area",
+    "value": "9255.36"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "coordinates",
+    "value": "41.10662,122.98945"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "inception",
+    "value": "1937-12-01"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "population",
+    "value": "3645884"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "area",
+    "value": "9255.36"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "coordinates",
+    "value": "41.10662,122.98945"
+  },
+  {
+    "city_id": "Q74957",
+    "property": "inception",
+    "value": "1937-12-01"
+  },
+  {
+    "city_id": "Q75026",
+    "property": "population",
+    "value": "1861372"
+  },
+  {
+    "city_id": "Q75026",
+    "property": "area",
+    "value": "11271.03"
+  },
+  {
+    "city_id": "Q75026",
+    "property": "coordinates",
+    "value": "41.87085,123.89173"
+  },
+  {
+    "city_id": "Q75026",
+    "property": "inception",
+    "value": "-0107-01-01"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "population",
+    "value": "1326018"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "area",
+    "value": "8413.94"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "coordinates",
+    "value": "41.29204,123.76097"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "population",
+    "value": "1709538"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "area",
+    "value": "8413.94"
+  },
+  {
+    "city_id": "Q75091",
+    "property": "coordinates",
+    "value": "41.29204,123.76097"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "population",
+    "value": "2188436"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "area",
+    "value": "15289.61"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "coordinates",
+    "value": "40.116666666667,124.38333333333"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "population",
+    "value": "2444697"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "area",
+    "value": "15289.61"
+  },
+  {
+    "city_id": "Q75110",
+    "property": "coordinates",
+    "value": "40.116666666667,124.38333333333"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "population",
+    "value": "2296540"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "area",
+    "value": "5399.8"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "coordinates",
+    "value": "40.66525,122.22972"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "population",
+    "value": "2328582"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "area",
+    "value": "5399.8"
+  },
+  {
+    "city_id": "Q75150",
+    "property": "coordinates",
+    "value": "40.66525,122.22972"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.88,125.32277777778"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "7674439"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "population",
+    "value": "9066906"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "area",
+    "value": "24734.13"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "coordinates",
+    "value": "43.9,125.2"
+  },
+  {
+    "city_id": "Q92161",
+    "property": "inception",
+    "value": "1889-01-01"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "population",
+    "value": "7967400"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "area",
+    "value": "10244.45"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "coordinates",
+    "value": "36.666666666667,116.98333333333"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "population",
+    "value": "9202432"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "area",
+    "value": "10244.45"
+  },
+  {
+    "city_id": "Q170247",
+    "property": "coordinates",
+    "value": "36.666666666667,116.98333333333"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "population",
+    "value": "5775000"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "area",
+    "value": "11282"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "coordinates",
+    "value": "36.116666666667,120.4"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "population",
+    "value": "10071722"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "area",
+    "value": "11282"
+  },
+  {
+    "city_id": "Q170322",
+    "property": "coordinates",
+    "value": "36.116666666667,120.4"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "3616163"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "population",
+    "value": "4359446"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "area",
+    "value": "13192.31"
+  },
+  {
+    "city_id": "Q183584",
+    "property": "coordinates",
+    "value": "36.06171,103.83177"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "1776141"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "population",
+    "value": "2873358"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "area",
+    "value": "2304"
+  },
+  {
+    "city_id": "Q189823",
+    "property": "coordinates",
+    "value": "20.02,110.32"
+  }
+]

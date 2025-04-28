@@ -1,0 +1,402 @@
+[
+  {
+    "cityLabel": "北京",
+    "population": "5925850",
+    "countryLabel": "中国",
+    "coordinate": "Point(86.6881302337363 23.832691876892568)",
+    "inception": "1207-01-10",
+    "area": "6130 km²"
+  },
+  {
+    "cityLabel": "上海",
+    "population": "12521825",
+    "countryLabel": "中国",
+    "coordinate": "Point(83.65853062640831 47.54021262517115)",
+    "inception": "1198-06-24",
+    "area": "2485 km²"
+  },
+  {
+    "cityLabel": "广州",
+    "population": "5170219",
+    "countryLabel": "中国",
+    "coordinate": "Point(99.66462790119387 20.004164490616972)",
+    "inception": "1554-04-18",
+    "area": "1031 km²"
+  },
+  {
+    "cityLabel": "深圳",
+    "population": "19357734",
+    "countryLabel": "中国",
+    "coordinate": "Point(101.29745446757086 38.934783150502184)",
+    "inception": "1167-02-27",
+    "area": "8360 km²"
+  },
+  {
+    "cityLabel": "成都",
+    "population": "19633091",
+    "countryLabel": "中国",
+    "coordinate": "Point(114.92459594776078 42.44674358200672)",
+    "inception": "1540-04-24",
+    "area": "6408 km²"
+  },
+  {
+    "cityLabel": "重庆",
+    "population": "22765370",
+    "countryLabel": "中国",
+    "coordinate": "Point(125.36594269015694 34.20157765297469)",
+    "inception": "1762-06-15",
+    "area": "3726 km²"
+  },
+  {
+    "cityLabel": "天津",
+    "population": "16068070",
+    "countryLabel": "中国",
+    "coordinate": "Point(83.43086978772205 29.63141167942477)",
+    "inception": "1585-09-26",
+    "area": "7225 km²"
+  },
+  {
+    "cityLabel": "西安",
+    "population": "7190668",
+    "countryLabel": "中国",
+    "coordinate": "Point(77.7890371921481 28.088168687414587)",
+    "inception": "1404-09-27",
+    "area": "3486 km²"
+  },
+  {
+    "cityLabel": "武汉",
+    "population": "25449613",
+    "countryLabel": "中国",
+    "coordinate": "Point(106.96415561700073 33.929931629958624)",
+    "inception": "1484-01-10",
+    "area": "2400 km²"
+  },
+  {
+    "cityLabel": "杭州",
+    "population": "24289320",
+    "countryLabel": "中国",
+    "coordinate": "Point(124.59363718289435 32.46215254179471)",
+    "inception": "1002-06-08",
+    "area": "9664 km²"
+  },
+  {
+    "cityLabel": "南京",
+    "population": "19813195",
+    "countryLabel": "中国",
+    "coordinate": "Point(84.5202009449907 32.87618526588291)",
+    "inception": "1853-07-22",
+    "area": "6826 km²"
+  },
+  {
+    "cityLabel": "沈阳",
+    "population": "27806047",
+    "countryLabel": "中国",
+    "coordinate": "Point(89.53689654977242 22.010735697227457)",
+    "inception": "1857-12-10",
+    "area": "5131 km²"
+  },
+  {
+    "cityLabel": "青岛",
+    "population": "26692078",
+    "countryLabel": "中国",
+    "coordinate": "Point(88.63237583948238 27.965817261554108)",
+    "inception": "1305-09-02",
+    "area": "9828 km²"
+  },
+  {
+    "cityLabel": "长沙",
+    "population": "14965284",
+    "countryLabel": "中国",
+    "coordinate": "Point(76.42816700508084 51.500459286625585)",
+    "inception": "1187-09-18",
+    "area": "3339 km²"
+  },
+  {
+    "cityLabel": "大连",
+    "population": "8231522",
+    "countryLabel": "中国",
+    "coordinate": "Point(86.5134422371857 23.18144985383681)",
+    "inception": "1016-08-15",
+    "area": "8043 km²"
+  },
+  {
+    "cityLabel": "宁波",
+    "population": "3994008",
+    "countryLabel": "中国",
+    "coordinate": "Point(81.1248749232171 41.20937189047281)",
+    "inception": "1629-05-07",
+    "area": "8242 km²"
+  },
+  {
+    "cityLabel": "厦门",
+    "population": "16481663",
+    "countryLabel": "中国",
+    "coordinate": "Point(115.96852238772345 52.65113940597889)",
+    "inception": "1263-11-11",
+    "area": "2909 km²"
+  },
+  {
+    "cityLabel": "福州",
+    "population": "24415012",
+    "countryLabel": "中国",
+    "coordinate": "Point(127.2668157803538 30.241550784169796)",
+    "inception": "1423-03-16",
+    "area": "5990 km²"
+  },
+  {
+    "cityLabel": "济南",
+    "population": "10745737",
+    "countryLabel": "中国",
+    "coordinate": "Point(115.86819334090411 27.88920964040192)",
+    "inception": "1729-11-19",
+    "area": "3998 km²"
+  },
+  {
+    "cityLabel": "哈尔滨",
+    "population": "11384485",
+    "countryLabel": "中国",
+    "coordinate": "Point(121.89001206170772 50.455320711412654)",
+    "inception": "1114-11-14",
+    "area": "2630 km²"
+  },
+  {
+    "cityLabel": "长春",
+    "population": "26016758",
+    "countryLabel": "中国",
+    "coordinate": "Point(128.48754413614452 24.743995865662214)",
+    "inception": "1788-01-10",
+    "area": "7228 km²"
+  },
+  {
+    "cityLabel": "昆明",
+    "population": "7788371",
+    "countryLabel": "中国",
+    "coordinate": "Point(86.88977719188699 46.884271725103126)",
+    "inception": "1375-05-28",
+    "area": "5906 km²"
+  },
+  {
+    "cityLabel": "合肥",
+    "population": "25770572",
+    "countryLabel": "中国",
+    "coordinate": "Point(86.45438751781748 36.58658639950637)",
+    "inception": "1096-09-08",
+    "area": "2791 km²"
+  },
+  {
+    "cityLabel": "郑州",
+    "population": "14024192",
+    "countryLabel": "中国",
+    "coordinate": "Point(119.0494168554566 52.4974627704485)",
+    "inception": "1665-12-08",
+    "area": "933 km²"
+  },
+  {
+    "cityLabel": "石家庄",
+    "population": "19165994",
+    "countryLabel": "中国",
+    "coordinate": "Point(124.4049150131089 30.98783908657013)",
+    "inception": "1765-03-04",
+    "area": "3335 km²"
+  },
+  {
+    "cityLabel": "苏州",
+    "population": "28401299",
+    "countryLabel": "中国",
+    "coordinate": "Point(99.07333282654355 23.865754003264968)",
+    "inception": "1502-06-04",
+    "area": "1681 km²"
+  },
+  {
+    "cityLabel": "佛山",
+    "population": "3877009",
+    "countryLabel": "中国",
+    "coordinate": "Point(120.9385093213746 41.91334311944404)",
+    "inception": "1223-10-22",
+    "area": "2505 km²"
+  },
+  {
+    "cityLabel": "东莞",
+    "population": "22974302",
+    "countryLabel": "中国",
+    "coordinate": "Point(81.17160920748344 50.21913159405874)",
+    "inception": "1314-08-06",
+    "area": "8715 km²"
+  },
+  {
+    "cityLabel": "无锡",
+    "population": "23225950",
+    "countryLabel": "中国",
+    "coordinate": "Point(76.34844156505949 36.06054863881861)",
+    "inception": "1318-10-18",
+    "area": "9378 km²"
+  },
+  {
+    "cityLabel": "烟台",
+    "population": "5058591",
+    "countryLabel": "中国",
+    "coordinate": "Point(82.43834186811526 25.469550841233193)",
+    "inception": "1227-07-06",
+    "area": "4968 km²"
+  },
+  {
+    "cityLabel": "太原",
+    "population": "4015438",
+    "countryLabel": "中国",
+    "coordinate": "Point(93.09935709443069 51.42094906930412)",
+    "inception": "1388-10-12",
+    "area": "8283 km²"
+  },
+  {
+    "cityLabel": "南通",
+    "population": "11976812",
+    "countryLabel": "中国",
+    "coordinate": "Point(75.20144919496086 47.88926951306573)",
+    "inception": "1663-05-21",
+    "area": "8364 km²"
+  },
+  {
+    "cityLabel": "南宁",
+    "population": "4672401",
+    "countryLabel": "中国",
+    "coordinate": "Point(94.50005713868808 41.436820348137125)",
+    "inception": "1287-02-21",
+    "area": "8210 km²"
+  },
+  {
+    "cityLabel": "泉州",
+    "population": "18500061",
+    "countryLabel": "中国",
+    "coordinate": "Point(118.507599831048 19.495275044369)",
+    "inception": "1890-01-09",
+    "area": "4229 km²"
+  },
+  {
+    "cityLabel": "贵阳",
+    "population": "23921577",
+    "countryLabel": "中国",
+    "coordinate": "Point(120.84325176411494 42.10767986069175)",
+    "inception": "1797-01-18",
+    "area": "3542 km²"
+  },
+  {
+    "cityLabel": "南昌",
+    "population": "3824590",
+    "countryLabel": "中国",
+    "coordinate": "Point(133.3586658450788 51.441590694649015)",
+    "inception": "1095-07-07",
+    "area": "1986 km²"
+  },
+  {
+    "cityLabel": "金华",
+    "population": "19126717",
+    "countryLabel": "中国",
+    "coordinate": "Point(134.03972068434967 26.643035219547578)",
+    "inception": "1576-05-11",
+    "area": "2201 km²"
+  },
+  {
+    "cityLabel": "徐州",
+    "population": "23438952",
+    "countryLabel": "中国",
+    "coordinate": "Point(126.32397189508367 47.58314834531815)",
+    "inception": "1478-03-23",
+    "area": "5440 km²"
+  },
+  {
+    "cityLabel": "温州",
+    "population": "23143873",
+    "countryLabel": "中国",
+    "coordinate": "Point(79.95544619552923 40.90111623860627)",
+    "inception": "1435-03-20",
+    "area": "1157 km²"
+  },
+  {
+    "cityLabel": "常州",
+    "population": "10187182",
+    "countryLabel": "中国",
+    "coordinate": "Point(77.29666722706806 46.94670378471882)",
+    "inception": "1019-01-14",
+    "area": "7877 km²"
+  },
+  {
+    "cityLabel": "淄博",
+    "population": "10639568",
+    "countryLabel": "中国",
+    "coordinate": "Point(125.65560152403464 47.773478157737856)",
+    "inception": "1820-05-02",
+    "area": "6972 km²"
+  },
+  {
+    "cityLabel": "绍兴",
+    "population": "4577501",
+    "countryLabel": "中国",
+    "coordinate": "Point(101.01381048884167 27.666023697355868)",
+    "inception": "1507-11-11",
+    "area": "1568 km²"
+  },
+  {
+    "cityLabel": "嘉兴",
+    "population": "23653545",
+    "countryLabel": "中国",
+    "coordinate": "Point(104.66430395063085 26.711234596491515)",
+    "inception": "1686-12-04",
+    "area": "6460 km²"
+  },
+  {
+    "cityLabel": "台州",
+    "population": "5984971",
+    "countryLabel": "中国",
+    "coordinate": "Point(127.48964463285282 41.983015272303376)",
+    "inception": "1859-05-10",
+    "area": "723 km²"
+  },
+  {
+    "cityLabel": "潍坊",
+    "population": "24233031",
+    "countryLabel": "中国",
+    "coordinate": "Point(73.78600485242417 32.27615163423433)",
+    "inception": "1237-10-24",
+    "area": "1271 km²"
+  },
+  {
+    "cityLabel": "保定",
+    "population": "17882680",
+    "countryLabel": "中国",
+    "coordinate": "Point(114.61780063008922 39.12836111423818)",
+    "inception": "1514-09-02",
+    "area": "1026 km²"
+  },
+  {
+    "cityLabel": "镇江",
+    "population": "22992407",
+    "countryLabel": "中国",
+    "coordinate": "Point(119.67690398166691 26.708305840061076)",
+    "inception": "1945-11-02",
+    "area": "9086 km²"
+  },
+  {
+    "cityLabel": "扬州",
+    "population": "29257832",
+    "countryLabel": "中国",
+    "coordinate": "Point(95.75111451759444 29.438054802038664)",
+    "inception": "1549-08-09",
+    "area": "1891 km²"
+  },
+  {
+    "cityLabel": "惠州",
+    "population": "16568511",
+    "countryLabel": "中国",
+    "coordinate": "Point(78.38769954222248 40.49213356203998)",
+    "inception": "1274-03-21",
+    "area": "8169 km²"
+  },
+  {
+    "cityLabel": "大庆",
+    "population": "13996569",
+    "countryLabel": "中国",
+    "coordinate": "Point(97.91257628864572 24.09972916522296)",
+    "inception": "1440-05-02",
+    "area": "7415 km²"
+  }
+]

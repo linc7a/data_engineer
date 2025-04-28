@@ -1,0 +1,402 @@
+[
+  {
+    "universityLabel": "北京大学",
+    "students": "36808",
+    "countryLabel": "中国",
+    "locationLabel": "青岛",
+    "inception": "1914-11-10",
+    "website": "http://www.北京.edu.cn"
+  },
+  {
+    "universityLabel": "清华大学",
+    "students": "12392",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1976-01-26",
+    "website": "http://www.清华.edu.cn"
+  },
+  {
+    "universityLabel": "复旦大学",
+    "students": "41229",
+    "countryLabel": "中国",
+    "locationLabel": "沈阳",
+    "inception": "1948-11-22",
+    "website": "http://www.复旦.edu.cn"
+  },
+  {
+    "universityLabel": "上海交通大学",
+    "students": "40731",
+    "countryLabel": "中国",
+    "locationLabel": "广州",
+    "inception": "1910-09-24",
+    "website": "http://www.上海交通.edu.cn"
+  },
+  {
+    "universityLabel": "浙江大学",
+    "students": "6907",
+    "countryLabel": "中国",
+    "locationLabel": "武汉",
+    "inception": "1924-05-06",
+    "website": "http://www.浙江.edu.cn"
+  },
+  {
+    "universityLabel": "南京大学",
+    "students": "31344",
+    "countryLabel": "中国",
+    "locationLabel": "青岛",
+    "inception": "1906-06-20",
+    "website": "http://www.南京.edu.cn"
+  },
+  {
+    "universityLabel": "武汉大学",
+    "students": "33380",
+    "countryLabel": "中国",
+    "locationLabel": "宁波",
+    "inception": "1910-07-03",
+    "website": "http://www.武汉.edu.cn"
+  },
+  {
+    "universityLabel": "中山大学",
+    "students": "34941",
+    "countryLabel": "中国",
+    "locationLabel": "沈阳",
+    "inception": "1964-09-06",
+    "website": "http://www.中山.edu.cn"
+  },
+  {
+    "universityLabel": "中国人民大学",
+    "students": "28885",
+    "countryLabel": "中国",
+    "locationLabel": "济南",
+    "inception": "1952-02-11",
+    "website": "http://www.中国人民.edu.cn"
+  },
+  {
+    "universityLabel": "中国科学技术大学",
+    "students": "31725",
+    "countryLabel": "中国",
+    "locationLabel": "哈尔滨",
+    "inception": "1945-08-11",
+    "website": "http://www.中国科学技术.edu.cn"
+  },
+  {
+    "universityLabel": "西安交通大学",
+    "students": "44360",
+    "countryLabel": "中国",
+    "locationLabel": "长沙",
+    "inception": "1959-05-11",
+    "website": "http://www.西安交通.edu.cn"
+  },
+  {
+    "universityLabel": "哈尔滨工业大学",
+    "students": "12618",
+    "countryLabel": "中国",
+    "locationLabel": "北京",
+    "inception": "1939-07-20",
+    "website": "http://www.哈尔滨工业.edu.cn"
+  },
+  {
+    "universityLabel": "南开大学",
+    "students": "22258",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1903-10-13",
+    "website": "http://www.南开.edu.cn"
+  },
+  {
+    "universityLabel": "天津大学",
+    "students": "24680",
+    "countryLabel": "中国",
+    "locationLabel": "天津",
+    "inception": "1971-11-22",
+    "website": "http://www.天津.edu.cn"
+  },
+  {
+    "universityLabel": "同济大学",
+    "students": "8841",
+    "countryLabel": "中国",
+    "locationLabel": "青岛",
+    "inception": "1921-11-22",
+    "website": "http://www.同济.edu.cn"
+  },
+  {
+    "universityLabel": "北京师范大学",
+    "students": "9924",
+    "countryLabel": "中国",
+    "locationLabel": "杭州",
+    "inception": "1938-06-17",
+    "website": "http://www.北京师范.edu.cn"
+  },
+  {
+    "universityLabel": "中南大学",
+    "students": "33614",
+    "countryLabel": "中国",
+    "locationLabel": "福州",
+    "inception": "1929-05-07",
+    "website": "http://www.中南.edu.cn"
+  },
+  {
+    "universityLabel": "华中科技大学",
+    "students": "35168",
+    "countryLabel": "中国",
+    "locationLabel": "西安",
+    "inception": "1970-01-22",
+    "website": "http://www.华中科技.edu.cn"
+  },
+  {
+    "universityLabel": "四川大学",
+    "students": "22229",
+    "countryLabel": "中国",
+    "locationLabel": "青岛",
+    "inception": "1952-05-20",
+    "website": "http://www.四川.edu.cn"
+  },
+  {
+    "universityLabel": "山东大学",
+    "students": "30726",
+    "countryLabel": "中国",
+    "locationLabel": "重庆",
+    "inception": "1924-05-06",
+    "website": "http://www.山东.edu.cn"
+  },
+  {
+    "universityLabel": "吉林大学",
+    "students": "28453",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1920-06-12",
+    "website": "http://www.吉林.edu.cn"
+  },
+  {
+    "universityLabel": "大连理工大学",
+    "students": "49763",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1898-07-23",
+    "website": "http://www.大连理工.edu.cn"
+  },
+  {
+    "universityLabel": "东南大学",
+    "students": "35877",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1962-06-12",
+    "website": "http://www.东南.edu.cn"
+  },
+  {
+    "universityLabel": "湖南大学",
+    "students": "38526",
+    "countryLabel": "中国",
+    "locationLabel": "武汉",
+    "inception": "1900-09-03",
+    "website": "http://www.湖南.edu.cn"
+  },
+  {
+    "universityLabel": "北京理工大学",
+    "students": "6371",
+    "countryLabel": "中国",
+    "locationLabel": "杭州",
+    "inception": "1923-05-28",
+    "website": "http://www.北京理工.edu.cn"
+  },
+  {
+    "universityLabel": "华南理工大学",
+    "students": "34430",
+    "countryLabel": "中国",
+    "locationLabel": "南京",
+    "inception": "1902-09-20",
+    "website": "http://www.华南理工.edu.cn"
+  },
+  {
+    "universityLabel": "中国农业大学",
+    "students": "43377",
+    "countryLabel": "中国",
+    "locationLabel": "上海",
+    "inception": "1899-03-28",
+    "website": "http://www.中国农业.edu.cn"
+  },
+  {
+    "universityLabel": "中央民族大学",
+    "students": "21121",
+    "countryLabel": "中国",
+    "locationLabel": "成都",
+    "inception": "1975-07-26",
+    "website": "http://www.中央民族.edu.cn"
+  },
+  {
+    "universityLabel": "西南大学",
+    "students": "21528",
+    "countryLabel": "中国",
+    "locationLabel": "成都",
+    "inception": "1909-12-01",
+    "website": "http://www.西南.edu.cn"
+  },
+  {
+    "universityLabel": "华东师范大学",
+    "students": "16323",
+    "countryLabel": "中国",
+    "locationLabel": "广州",
+    "inception": "1902-03-16",
+    "website": "http://www.华东师范.edu.cn"
+  },
+  {
+    "universityLabel": "厦门大学",
+    "students": "9417",
+    "countryLabel": "中国",
+    "locationLabel": "厦门",
+    "inception": "1967-10-16",
+    "website": "http://www.厦门.edu.cn"
+  },
+  {
+    "universityLabel": "中国政法大学",
+    "students": "37689",
+    "countryLabel": "中国",
+    "locationLabel": "广州",
+    "inception": "1970-11-12",
+    "website": "http://www.中国政法.edu.cn"
+  },
+  {
+    "universityLabel": "上海财经大学",
+    "students": "48211",
+    "countryLabel": "中国",
+    "locationLabel": "青岛",
+    "inception": "1960-10-01",
+    "website": "http://www.上海财经.edu.cn"
+  },
+  {
+    "universityLabel": "中国传媒大学",
+    "students": "36027",
+    "countryLabel": "中国",
+    "locationLabel": "大连",
+    "inception": "1903-08-12",
+    "website": "http://www.中国传媒.edu.cn"
+  },
+  {
+    "universityLabel": "对外经济贸易大学",
+    "students": "6476",
+    "countryLabel": "中国",
+    "locationLabel": "福州",
+    "inception": "1899-11-21",
+    "website": "http://www.对外经济贸易.edu.cn"
+  },
+  {
+    "universityLabel": "北京航空航天大学",
+    "students": "7759",
+    "countryLabel": "中国",
+    "locationLabel": "成都",
+    "inception": "1909-07-24",
+    "website": "http://www.北京航空航天.edu.cn"
+  },
+  {
+    "universityLabel": "北京交通大学",
+    "students": "34496",
+    "countryLabel": "中国",
+    "locationLabel": "上海",
+    "inception": "1896-02-05",
+    "website": "http://www.北京交通.edu.cn"
+  },
+  {
+    "universityLabel": "北京科技大学",
+    "students": "31748",
+    "countryLabel": "中国",
+    "locationLabel": "重庆",
+    "inception": "1915-05-25",
+    "website": "http://www.北京科技.edu.cn"
+  },
+  {
+    "universityLabel": "北京邮电大学",
+    "students": "31839",
+    "countryLabel": "中国",
+    "locationLabel": "厦门",
+    "inception": "1933-02-06",
+    "website": "http://www.北京邮电.edu.cn"
+  },
+  {
+    "universityLabel": "东北大学",
+    "students": "41618",
+    "countryLabel": "中国",
+    "locationLabel": "西安",
+    "inception": "1910-10-12",
+    "website": "http://www.东北.edu.cn"
+  },
+  {
+    "universityLabel": "东华大学",
+    "students": "34306",
+    "countryLabel": "中国",
+    "locationLabel": "沈阳",
+    "inception": "1953-12-28",
+    "website": "http://www.东华.edu.cn"
+  },
+  {
+    "universityLabel": "重庆大学",
+    "students": "42740",
+    "countryLabel": "中国",
+    "locationLabel": "宁波",
+    "inception": "1895-08-28",
+    "website": "http://www.重庆.edu.cn"
+  },
+  {
+    "universityLabel": "电子科技大学",
+    "students": "26257",
+    "countryLabel": "中国",
+    "locationLabel": "深圳",
+    "inception": "1935-01-15",
+    "website": "http://www.电子科技.edu.cn"
+  },
+  {
+    "universityLabel": "福州大学",
+    "students": "38330",
+    "countryLabel": "中国",
+    "locationLabel": "大连",
+    "inception": "1901-11-06",
+    "website": "http://www.福州.edu.cn"
+  },
+  {
+    "universityLabel": "合肥工业大学",
+    "students": "36832",
+    "countryLabel": "中国",
+    "locationLabel": "重庆",
+    "inception": "1897-01-18",
+    "website": "http://www.合肥工业.edu.cn"
+  },
+  {
+    "universityLabel": "河海大学",
+    "students": "28496",
+    "countryLabel": "中国",
+    "locationLabel": "南京",
+    "inception": "1935-01-26",
+    "website": "http://www.河海.edu.cn"
+  },
+  {
+    "universityLabel": "湖南师范大学",
+    "students": "16060",
+    "countryLabel": "中国",
+    "locationLabel": "宁波",
+    "inception": "1979-04-18",
+    "website": "http://www.湖南师范.edu.cn"
+  },
+  {
+    "universityLabel": "华东理工大学",
+    "students": "33151",
+    "countryLabel": "中国",
+    "locationLabel": "天津",
+    "inception": "1939-09-09",
+    "website": "http://www.华东理工.edu.cn"
+  },
+  {
+    "universityLabel": "兰州大学",
+    "students": "19175",
+    "countryLabel": "中国",
+    "locationLabel": "南京",
+    "inception": "1975-01-27",
+    "website": "http://www.兰州.edu.cn"
+  },
+  {
+    "universityLabel": "南京农业大学",
+    "students": "43072",
+    "countryLabel": "中国",
+    "locationLabel": "重庆",
+    "inception": "1926-10-08",
+    "website": "http://www.南京农业.edu.cn"
+  }
+]

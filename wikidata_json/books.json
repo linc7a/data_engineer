@@ -1,0 +1,352 @@
+[
+  {
+    "bookLabel": "活着",
+    "authorLabel": "陈忠实",
+    "publicationDate": "2010-01-03",
+    "genreLabel": "心理学",
+    "publisherLabel": "南海出版公司"
+  },
+  {
+    "bookLabel": "三体",
+    "authorLabel": "卡勒德·胡赛尼",
+    "publicationDate": "2021-08-07",
+    "genreLabel": "小说",
+    "publisherLabel": "北京联合出版公司"
+  },
+  {
+    "bookLabel": "红楼梦",
+    "authorLabel": "丹尼尔·卡尼曼",
+    "publicationDate": "2002-03-17",
+    "genreLabel": "奇幻",
+    "publisherLabel": "清华大学出版社"
+  },
+  {
+    "bookLabel": "围城",
+    "authorLabel": "当年明月",
+    "publicationDate": "1967-10-01",
+    "genreLabel": "哲学",
+    "publisherLabel": "湖南文艺出版社"
+  },
+  {
+    "bookLabel": "平凡的世界",
+    "authorLabel": "三毛",
+    "publicationDate": "1985-04-07",
+    "genreLabel": "科普",
+    "publisherLabel": "浙江文艺出版社"
+  },
+  {
+    "bookLabel": "白鹿原",
+    "authorLabel": "黄仁宇",
+    "publicationDate": "1947-12-13",
+    "genreLabel": "教育",
+    "publisherLabel": "北京联合出版公司"
+  },
+  {
+    "bookLabel": "边城",
+    "authorLabel": "M·斯科特·派克",
+    "publicationDate": "1993-03-12",
+    "genreLabel": "爱情",
+    "publisherLabel": "北京联合出版公司"
+  },
+  {
+    "bookLabel": "万历十五年",
+    "authorLabel": "村上春树",
+    "publicationDate": "1932-08-12",
+    "genreLabel": "文学",
+    "publisherLabel": "清华大学出版社"
+  },
+  {
+    "bookLabel": "撒哈拉的故事",
+    "authorLabel": "史蒂芬·霍金",
+    "publicationDate": "2015-08-19",
+    "genreLabel": "悬疑",
+    "publisherLabel": "机械工业出版社"
+  },
+  {
+    "bookLabel": "追风筝的人",
+    "authorLabel": "钱钟书",
+    "publicationDate": "1967-08-15",
+    "genreLabel": "社会学",
+    "publisherLabel": "广西师范大学出版社"
+  },
+  {
+    "bookLabel": "百年孤独",
+    "authorLabel": "三毛",
+    "publicationDate": "1927-04-05",
+    "genreLabel": "推理",
+    "publisherLabel": "作家出版社"
+  },
+  {
+    "bookLabel": "目送",
+    "authorLabel": "尤瓦尔·赫拉利",
+    "publicationDate": "2022-04-24",
+    "genreLabel": "文学",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "解忧杂货店",
+    "authorLabel": "贾雷德·戴蒙德",
+    "publicationDate": "2015-07-28",
+    "genreLabel": "设计",
+    "publisherLabel": "商务印书馆"
+  },
+  {
+    "bookLabel": "明朝那些事儿",
+    "authorLabel": "刘慈欣",
+    "publicationDate": "2004-09-06",
+    "genreLabel": "历史",
+    "publisherLabel": "天津人民出版社"
+  },
+  {
+    "bookLabel": "月亮与六便士",
+    "authorLabel": "菲茨杰拉德",
+    "publicationDate": "1919-01-26",
+    "genreLabel": "科普",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "白夜行",
+    "authorLabel": "紫式部",
+    "publicationDate": "1943-11-05",
+    "genreLabel": "教育",
+    "publisherLabel": "北京十月文艺出版社"
+  },
+  {
+    "bookLabel": "嫌疑人X的献身",
+    "authorLabel": "余华",
+    "publicationDate": "1979-04-12",
+    "genreLabel": "传记",
+    "publisherLabel": "广西师范大学出版社"
+  },
+  {
+    "bookLabel": "悲惨世界",
+    "authorLabel": "陈忠实",
+    "publicationDate": "2013-09-21",
+    "genreLabel": "艺术",
+    "publisherLabel": "北京联合出版公司"
+  },
+  {
+    "bookLabel": "傲慢与偏见",
+    "authorLabel": "史蒂芬·霍金",
+    "publicationDate": "1906-09-12",
+    "genreLabel": "经济学",
+    "publisherLabel": "浙江文艺出版社"
+  },
+  {
+    "bookLabel": "简爱",
+    "authorLabel": "玛格丽特·米切尔",
+    "publicationDate": "1992-06-15",
+    "genreLabel": "艺术",
+    "publisherLabel": "人民文学出版社"
+  },
+  {
+    "bookLabel": "飘",
+    "authorLabel": "当年明月",
+    "publicationDate": "2000-10-19",
+    "genreLabel": "爱情",
+    "publisherLabel": "新星出版社"
+  },
+  {
+    "bookLabel": "了不起的盖茨比",
+    "authorLabel": "太宰治",
+    "publicationDate": "1934-12-25",
+    "genreLabel": "推理",
+    "publisherLabel": "广西师范大学出版社"
+  },
+  {
+    "bookLabel": "苏菲的世界",
+    "authorLabel": "尤瓦尔·赫拉利",
+    "publicationDate": "1956-10-05",
+    "genreLabel": "心理学",
+    "publisherLabel": "新星出版社"
+  },
+  {
+    "bookLabel": "偷影子的人",
+    "authorLabel": "史蒂芬·霍金",
+    "publicationDate": "2002-09-07",
+    "genreLabel": "诗歌",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "挪威的森林",
+    "authorLabel": "三毛",
+    "publicationDate": "1908-10-14",
+    "genreLabel": "小说",
+    "publisherLabel": "商务印书馆"
+  },
+  {
+    "bookLabel": "人间失格",
+    "authorLabel": "史蒂芬·金",
+    "publicationDate": "1967-08-02",
+    "genreLabel": "文学",
+    "publisherLabel": "北京十月文艺出版社"
+  },
+  {
+    "bookLabel": "小王子",
+    "authorLabel": "太宰治",
+    "publicationDate": "2001-06-20",
+    "genreLabel": "计算机",
+    "publisherLabel": "中信出版社"
+  },
+  {
+    "bookLabel": "霍乱时期的爱情",
+    "authorLabel": "艾米莉·勃朗特",
+    "publicationDate": "1990-08-11",
+    "genreLabel": "悬疑",
+    "publisherLabel": "作家出版社"
+  },
+  {
+    "bookLabel": "放学后",
+    "authorLabel": "查尔斯·杜希格",
+    "publicationDate": "2010-06-19",
+    "genreLabel": "哲学",
+    "publisherLabel": "重庆出版社"
+  },
+  {
+    "bookLabel": "1984",
+    "authorLabel": "曹雪芹",
+    "publicationDate": "1936-10-25",
+    "genreLabel": "小说",
+    "publisherLabel": "译林出版社"
+  },
+  {
+    "bookLabel": "动物农场",
+    "authorLabel": "艾米莉·勃朗特",
+    "publicationDate": "1931-07-21",
+    "genreLabel": "计算机",
+    "publisherLabel": "新星出版社"
+  },
+  {
+    "bookLabel": "瓦尔登湖",
+    "authorLabel": "艾米莉·勃朗特",
+    "publicationDate": "2005-02-21",
+    "genreLabel": "文学",
+    "publisherLabel": "中信出版社"
+  },
+  {
+    "bookLabel": "呼啸山庄",
+    "authorLabel": "简·奥斯汀",
+    "publicationDate": "2016-04-26",
+    "genreLabel": "教育",
+    "publisherLabel": "人民文学出版社"
+  },
+  {
+    "bookLabel": "不能承受的生命之轻",
+    "authorLabel": "史蒂芬·金",
+    "publicationDate": "1999-07-17",
+    "genreLabel": "诗歌",
+    "publisherLabel": "南海出版公司"
+  },
+  {
+    "bookLabel": "麦田里的守望者",
+    "authorLabel": "M·斯科特·派克",
+    "publicationDate": "1943-06-21",
+    "genreLabel": "哲学",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "源氏物语",
+    "authorLabel": "米兰·昆德拉",
+    "publicationDate": "1975-08-13",
+    "genreLabel": "历史",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "百年孤独",
+    "authorLabel": "史蒂芬·金",
+    "publicationDate": "1963-04-21",
+    "genreLabel": "历史",
+    "publisherLabel": "人民邮电出版社"
+  },
+  {
+    "bookLabel": "东方快车谋杀案",
+    "authorLabel": "艾米莉·勃朗特",
+    "publicationDate": "1911-06-25",
+    "genreLabel": "科幻",
+    "publisherLabel": "天津人民出版社"
+  },
+  {
+    "bookLabel": "肖申克的救赎",
+    "authorLabel": "菲茨杰拉德",
+    "publicationDate": "1956-05-27",
+    "genreLabel": "社会学",
+    "publisherLabel": "人民文学出版社"
+  },
+  {
+    "bookLabel": "且听风吟",
+    "authorLabel": "毛姆",
+    "publicationDate": "1948-03-25",
+    "genreLabel": "悬疑",
+    "publisherLabel": "新星出版社"
+  },
+  {
+    "bookLabel": "挪威的森林",
+    "authorLabel": "玛格丽特·米切尔",
+    "publicationDate": "1969-03-05",
+    "genreLabel": "管理学",
+    "publisherLabel": "机械工业出版社"
+  },
+  {
+    "bookLabel": "时间简史",
+    "authorLabel": "加西亚·马尔克斯",
+    "publicationDate": "1949-01-11",
+    "genreLabel": "推理",
+    "publisherLabel": "电子工业出版社"
+  },
+  {
+    "bookLabel": "人类简史",
+    "authorLabel": "塞林格",
+    "publicationDate": "2004-06-16",
+    "genreLabel": "教育",
+    "publisherLabel": "北京联合出版公司"
+  },
+  {
+    "bookLabel": "未来简史",
+    "authorLabel": "圣埃克苏佩里",
+    "publicationDate": "1992-09-23",
+    "genreLabel": "科幻",
+    "publisherLabel": "新星出版社"
+  },
+  {
+    "bookLabel": "最好的告别",
+    "authorLabel": "菲茨杰拉德",
+    "publicationDate": "1966-01-01",
+    "genreLabel": "悬疑",
+    "publisherLabel": "南海出版公司"
+  },
+  {
+    "bookLabel": "自私的基因",
+    "authorLabel": "卡勒德·胡赛尼",
+    "publicationDate": "1935-01-16",
+    "genreLabel": "科普",
+    "publisherLabel": "北京十月文艺出版社"
+  },
+  {
+    "bookLabel": "枪炮、病菌与钢铁",
+    "authorLabel": "尤瓦尔·赫拉利",
+    "publicationDate": "2015-08-12",
+    "genreLabel": "推理",
+    "publisherLabel": "南海出版公司"
+  },
+  {
+    "bookLabel": "习惯的力量",
+    "authorLabel": "三毛",
+    "publicationDate": "1998-07-20",
+    "genreLabel": "科普",
+    "publisherLabel": "机械工业出版社"
+  },
+  {
+    "bookLabel": "思考，快与慢",
+    "authorLabel": "阿图·葛文德",
+    "publicationDate": "1975-06-28",
+    "genreLabel": "哲学",
+    "publisherLabel": "商务印书馆"
+  },
+  {
+    "bookLabel": "少有人走的路",
+    "authorLabel": "艾米莉·勃朗特",
+    "publicationDate": "1935-02-21",
+    "genreLabel": "悬疑",
+    "publisherLabel": "人民文学出版社"
+  }
+]

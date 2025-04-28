@@ -1,0 +1,3127 @@
+[
+  {
+    "university_id": "Q15570",
+    "property": "inception",
+    "value": "1963-01-01"
+  },
+  {
+    "university_id": "Q15570",
+    "property": "students",
+    "value": "19861"
+  },
+  {
+    "university_id": "Q15570",
+    "property": "website",
+    "value": "https://cuhk.edu.hk"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://de.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://en.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://www.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn/en/"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "inception",
+    "value": "1940-01-01"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "website",
+    "value": "http://www.bit.edu.cn/"
+  },
+  {
+    "university_id": "Q23102",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q23102",
+    "property": "website",
+    "value": "http://www.hrbeu.edu.cn"
+  },
+  {
+    "university_id": "Q23110",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q23110",
+    "property": "website",
+    "value": "http://www.nuaa.edu.cn"
+  },
+  {
+    "university_id": "Q51841",
+    "property": "inception",
+    "value": "1909-01-01"
+  },
+  {
+    "university_id": "Q51841",
+    "property": "website",
+    "value": "http://www.shmtu.edu.cn"
+  },
+  {
+    "university_id": "Q82267",
+    "property": "inception",
+    "value": "1985-01-01"
+  },
+  {
+    "university_id": "Q82267",
+    "property": "website",
+    "value": "http://www.qdu.edu.cn/"
+  },
+  {
+    "university_id": "Q137006",
+    "property": "inception",
+    "value": "1932-01-01"
+  },
+  {
+    "university_id": "Q137006",
+    "property": "website",
+    "value": "http://www.gxnu.edu.cn/"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "inception",
+    "value": "1924-01-01"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "students",
+    "value": "65638"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "website",
+    "value": "http://www.sysu.edu.cn/"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "students",
+    "value": "15800"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "website",
+    "value": "https://www.muc.edu.cn/"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "inception",
+    "value": "1897-05-21"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "students",
+    "value": "39000"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "website",
+    "value": "https://www.zju.edu.cn"
+  },
+  {
+    "university_id": "Q233300",
+    "property": "inception",
+    "value": "1964-01-01"
+  },
+  {
+    "university_id": "Q233300",
+    "property": "website",
+    "value": "http://www.bisu.edu.cn/"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "inception",
+    "value": "1905-01-01"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "website",
+    "value": "http://www.cau.edu.cn/"
+  },
+  {
+    "university_id": "Q263932",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q263932",
+    "property": "website",
+    "value": "https://www.zcmu.edu.cn"
+  },
+  {
+    "university_id": "Q716822",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q716822",
+    "property": "website",
+    "value": "https://www.gdut.edu.cn"
+  },
+  {
+    "university_id": "Q718332",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q718332",
+    "property": "website",
+    "value": "http://www.ybu.edu.cn/"
+  },
+  {
+    "university_id": "Q777323",
+    "property": "inception",
+    "value": "1903-01-01"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "website",
+    "value": "https://www.nudt.edu.cn"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "website",
+    "value": "https://english.nudt.edu.cn"
+  },
+  {
+    "university_id": "Q832355",
+    "property": "inception",
+    "value": "2000-05-27"
+  },
+  {
+    "university_id": "Q832355",
+    "property": "website",
+    "value": "http://www.whut.edu.cn"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "inception",
+    "value": "1938-01-01"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "website",
+    "value": "http://www.nwpu.edu.cn/"
+  },
+  {
+    "university_id": "Q832792",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q832792",
+    "property": "website",
+    "value": "http://www.ysu.edu.cn"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "students",
+    "value": "21325"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "website",
+    "value": "http://en.cupl.edu.cn/"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "students",
+    "value": "21325"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "website",
+    "value": "https://www.cupl.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://ndmw.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://ndmw.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://ndmw.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/yw/Home.htm"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/yw/Home.htm"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "inception",
+    "value": "1957-01-01"
+  },
+  {
+    "university_id": "Q834458",
+    "property": "website",
+    "value": "https://www.imu.edu.cn/yw/Home.htm"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "inception",
+    "value": "1929-01-01"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "website",
+    "value": "https://www.cqu.edu.cn"
+  },
+  {
+    "university_id": "Q835075",
+    "property": "inception",
+    "value": "1981-01-01"
+  },
+  {
+    "university_id": "Q835075",
+    "property": "website",
+    "value": "http://www.stu.edu.cn"
+  },
+  {
+    "university_id": "Q835185",
+    "property": "inception",
+    "value": "1927-10-27"
+  },
+  {
+    "university_id": "Q835185",
+    "property": "website",
+    "value": "https://shmc.fudan.edu.cn/"
+  },
+  {
+    "university_id": "Q835731",
+    "property": "inception",
+    "value": "1921-01-01"
+  },
+  {
+    "university_id": "Q835731",
+    "property": "website",
+    "value": "http://www.hebei-university.com"
+  },
+  {
+    "university_id": "Q835731",
+    "property": "inception",
+    "value": "1921-01-01"
+  },
+  {
+    "university_id": "Q835731",
+    "property": "website",
+    "value": "https://hebei-university.com/"
+  },
+  {
+    "university_id": "Q835779",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q835779",
+    "property": "website",
+    "value": "http://www.uibe.edu.cn/"
+  },
+  {
+    "university_id": "Q836014",
+    "property": "inception",
+    "value": "1952-10-01"
+  },
+  {
+    "university_id": "Q836014",
+    "property": "website",
+    "value": "http://www.dufe.edu.cn"
+  },
+  {
+    "university_id": "Q837969",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q837969",
+    "property": "website",
+    "value": "http://www.lnnu.edu.cn"
+  },
+  {
+    "university_id": "Q839020",
+    "property": "inception",
+    "value": "1954-01-01"
+  },
+  {
+    "university_id": "Q839020",
+    "property": "website",
+    "value": "http://www.shnu.edu.cn"
+  },
+  {
+    "university_id": "Q840443",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q840443",
+    "property": "website",
+    "value": "http://www.swu.edu.cn/"
+  },
+  {
+    "university_id": "Q847993",
+    "property": "inception",
+    "value": "2000-01-01"
+  },
+  {
+    "university_id": "Q847993",
+    "property": "website",
+    "value": "https://www.must.edu.mo/"
+  },
+  {
+    "university_id": "Q864879",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q864879",
+    "property": "website",
+    "value": "https://www.usst.edu.cn/"
+  },
+  {
+    "university_id": "Q873230",
+    "property": "inception",
+    "value": "1950-01-01"
+  },
+  {
+    "university_id": "Q873230",
+    "property": "website",
+    "value": "http://www.qust.edu.cn/"
+  },
+  {
+    "university_id": "Q920505",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q920505",
+    "property": "website",
+    "value": "http://www.swun.edu.cn"
+  },
+  {
+    "university_id": "Q957715",
+    "property": "inception",
+    "value": "1915-01-01"
+  },
+  {
+    "university_id": "Q957715",
+    "property": "students",
+    "value": "11483"
+  },
+  {
+    "university_id": "Q957715",
+    "property": "website",
+    "value": "http://www.bistu.edu.cn/"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "inception",
+    "value": "1896-01-01"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "website",
+    "value": "http://www.xjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q985578",
+    "property": "inception",
+    "value": "1924-01-01"
+  },
+  {
+    "university_id": "Q985578",
+    "property": "website",
+    "value": "https://www.xju.edu.cn"
+  },
+  {
+    "university_id": "Q985755",
+    "property": "inception",
+    "value": "1960-01-01"
+  },
+  {
+    "university_id": "Q985755",
+    "property": "website",
+    "value": "http://www.hqu.edu.cn"
+  },
+  {
+    "university_id": "Q985775",
+    "property": "inception",
+    "value": "1948-01-01"
+  },
+  {
+    "university_id": "Q985775",
+    "property": "website",
+    "value": "http://www.ujn.edu.cn"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "inception",
+    "value": "1934-01-01"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "website",
+    "value": "http://www.nwsuaf.edu.cn/"
+  },
+  {
+    "university_id": "Q986087",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q986087",
+    "property": "website",
+    "value": "https://www.zjut.edu.cn/"
+  },
+  {
+    "university_id": "Q986430",
+    "property": "inception",
+    "value": "1996-01-01"
+  },
+  {
+    "university_id": "Q986430",
+    "property": "website",
+    "value": "http://www.usj.edu.mo/"
+  },
+  {
+    "university_id": "Q987022",
+    "property": "inception",
+    "value": "1987-01-01"
+  },
+  {
+    "university_id": "Q987022",
+    "property": "website",
+    "value": "http://www.dlu.edu.cn/"
+  },
+  {
+    "university_id": "Q1018771",
+    "property": "inception",
+    "value": "1949-11-22"
+  },
+  {
+    "university_id": "Q1322553",
+    "property": "inception",
+    "value": "1985-01-01"
+  },
+  {
+    "university_id": "Q1322553",
+    "property": "website",
+    "value": "https://www.utibet.edu.cn"
+  },
+  {
+    "university_id": "Q1323075",
+    "property": "inception",
+    "value": "1950-01-01"
+  },
+  {
+    "university_id": "Q1323075",
+    "property": "website",
+    "value": "https://english.swupl.edu.cn/"
+  },
+  {
+    "university_id": "Q1323075",
+    "property": "inception",
+    "value": "1950-01-01"
+  },
+  {
+    "university_id": "Q1323075",
+    "property": "website",
+    "value": "https://www.swupl.edu.cn/"
+  },
+  {
+    "university_id": "Q1351114",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q1351114",
+    "property": "website",
+    "value": "http://www.hifa.edu.cn"
+  },
+  {
+    "university_id": "Q1363559",
+    "property": "inception",
+    "value": "1923-01-01"
+  },
+  {
+    "university_id": "Q1363559",
+    "property": "website",
+    "value": "http://www.neu.edu.cn/"
+  },
+  {
+    "university_id": "Q1389327",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q1389327",
+    "property": "website",
+    "value": "https://www.sxau.edu.cn/"
+  },
+  {
+    "university_id": "Q1391751",
+    "property": "inception",
+    "value": "2012-01-01"
+  },
+  {
+    "university_id": "Q1391751",
+    "property": "website",
+    "value": "https://dukekunshan.edu.cn"
+  },
+  {
+    "university_id": "Q1432030",
+    "property": "inception",
+    "value": "1946-01-01"
+  },
+  {
+    "university_id": "Q1432030",
+    "property": "website",
+    "value": "http://www.jlu.edu.cn/"
+  },
+  {
+    "university_id": "Q4671492",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q28414979",
+    "property": "inception",
+    "value": "1954-01-01"
+  },
+  {
+    "university_id": "Q302940",
+    "property": "inception",
+    "value": "1948-01-01"
+  },
+  {
+    "university_id": "Q302940",
+    "property": "website",
+    "value": "http://www.sylu.edu.cn/sylusite/"
+  },
+  {
+    "university_id": "Q391150",
+    "property": "inception",
+    "value": "1912-01-01"
+  },
+  {
+    "university_id": "Q391150",
+    "property": "website",
+    "value": "http://www.henu.edu.cn"
+  },
+  {
+    "university_id": "Q461033",
+    "property": "inception",
+    "value": "1902-01-01"
+  },
+  {
+    "university_id": "Q461033",
+    "property": "students",
+    "value": "45000"
+  },
+  {
+    "university_id": "Q461033",
+    "property": "website",
+    "value": "http://www.gzu.edu.cn/"
+  },
+  {
+    "university_id": "Q461322",
+    "property": "inception",
+    "value": "1960-01-01"
+  },
+  {
+    "university_id": "Q461322",
+    "property": "website",
+    "value": "http://www.guet.edu.cn"
+  },
+  {
+    "university_id": "Q470963",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q470963",
+    "property": "students",
+    "value": "50000"
+  },
+  {
+    "university_id": "Q470963",
+    "property": "website",
+    "value": "https://www.fzu.edu.cn/"
+  },
+  {
+    "university_id": "Q519556",
+    "property": "inception",
+    "value": "1938-04-02"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://en.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://www.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q545540",
+    "property": "inception",
+    "value": "1928-01-01"
+  },
+  {
+    "university_id": "Q545540",
+    "property": "students",
+    "value": "26690"
+  },
+  {
+    "university_id": "Q545540",
+    "property": "website",
+    "value": "http://www.ahu.edu.cn/"
+  },
+  {
+    "university_id": "Q603686",
+    "property": "inception",
+    "value": "1956-01-01"
+  },
+  {
+    "university_id": "Q603686",
+    "property": "website",
+    "value": "https://www.hkbu.edu.hk/"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "inception",
+    "value": "1901-01-01"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "website",
+    "value": "https://www.sdu.edu.cn/"
+  },
+  {
+    "university_id": "Q614203",
+    "property": "inception",
+    "value": "1972-01-01"
+  },
+  {
+    "university_id": "Q614203",
+    "property": "website",
+    "value": "http://www.ahnu.edu.cn"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://en.hit.edu.cn"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://www.hit.edu.cn/"
+  },
+  {
+    "university_id": "Q647594",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q647594",
+    "property": "website",
+    "value": "http://en.dlpu.edu.cn/"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "inception",
+    "value": "0976-01-01"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "students",
+    "value": "46000"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "website",
+    "value": "https://www.hnu.edu.cn"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "inception",
+    "value": "1903-01-01"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "students",
+    "value": "46000"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "website",
+    "value": "https://www.hnu.edu.cn"
+  },
+  {
+    "university_id": "Q649882",
+    "property": "inception",
+    "value": "1922-01-01"
+  },
+  {
+    "university_id": "Q649882",
+    "property": "students",
+    "value": "19872"
+  },
+  {
+    "university_id": "Q649882",
+    "property": "website",
+    "value": "http://www.ynu.edu.cn/"
+  },
+  {
+    "university_id": "Q649895",
+    "property": "inception",
+    "value": "1956-01-01"
+  },
+  {
+    "university_id": "Q649895",
+    "property": "website",
+    "value": "http://www.zzu.edu.cn"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "inception",
+    "value": "1915-01-01"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "students",
+    "value": "33000"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "website",
+    "value": "http://www.hhu.edu.cn/"
+  },
+  {
+    "university_id": "Q676139",
+    "property": "inception",
+    "value": "1995-01-01"
+  },
+  {
+    "university_id": "Q676139",
+    "property": "website",
+    "value": "https://www.fosu.edu.cn"
+  },
+  {
+    "university_id": "Q676139",
+    "property": "inception",
+    "value": "1995-01-01"
+  },
+  {
+    "university_id": "Q676139",
+    "property": "website",
+    "value": "https://www.fosu.edu.cn/english/"
+  },
+  {
+    "university_id": "Q1022929",
+    "property": "inception",
+    "value": "1931-01-01"
+  },
+  {
+    "university_id": "Q1022929",
+    "property": "website",
+    "value": "http://www.hubu.edu.cn/"
+  },
+  {
+    "university_id": "Q1027478",
+    "property": "inception",
+    "value": "1964-01-01"
+  },
+  {
+    "university_id": "Q1027478",
+    "property": "website",
+    "value": "https://www.dlufl.edu.cn"
+  },
+  {
+    "university_id": "Q1041978",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q1041978",
+    "property": "website",
+    "value": "http://www.nuc.edu.cn/"
+  },
+  {
+    "university_id": "Q1058956",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q1058956",
+    "property": "website",
+    "value": "http://www.hlju.edu.cn/"
+  },
+  {
+    "university_id": "Q1073795",
+    "property": "inception",
+    "value": "1998-01-01"
+  },
+  {
+    "university_id": "Q1073795",
+    "property": "website",
+    "value": "http://cdhk.tongji.edu.cn"
+  },
+  {
+    "university_id": "Q1074015",
+    "property": "inception",
+    "value": "1924-01-01"
+  },
+  {
+    "university_id": "Q1074015",
+    "property": "website",
+    "value": "http://www.ouc.edu.cn/"
+  },
+  {
+    "university_id": "Q1074084",
+    "property": "inception",
+    "value": "1909-01-01"
+  },
+  {
+    "university_id": "Q1074084",
+    "property": "website",
+    "value": "http://www.cumt.edu.cn/"
+  },
+  {
+    "university_id": "Q1074097",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q1074097",
+    "property": "website",
+    "value": "http://www.cug.edu.cn"
+  },
+  {
+    "university_id": "Q1074103",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q1074103",
+    "property": "website",
+    "value": "https://ustc.edu.cn"
+  },
+  {
+    "university_id": "Q1074308",
+    "property": "inception",
+    "value": "1997-01-01"
+  },
+  {
+    "university_id": "Q1074308",
+    "property": "website",
+    "value": "http://www.dlnu.edu.cn"
+  },
+  {
+    "university_id": "Q1074363",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q1074363",
+    "property": "website",
+    "value": "http://www.dlfu.edu.cn/"
+  },
+  {
+    "university_id": "Q1075625",
+    "property": "inception",
+    "value": "2004-01-01"
+  },
+  {
+    "university_id": "Q1075625",
+    "property": "website",
+    "value": "http://www.nottingham.edu.cn/"
+  },
+  {
+    "university_id": "Q1108042",
+    "property": "inception",
+    "value": "1964-01-01"
+  },
+  {
+    "university_id": "Q1108042",
+    "property": "website",
+    "value": "http://www.tjfsu.edu.cn/zh/"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "students",
+    "value": "8600"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "website",
+    "value": "http://global.bfsu.edu.cn/en/"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "students",
+    "value": "8600"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "website",
+    "value": "https://www.bfsu.edu.cn/"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "students",
+    "value": "8600"
+  },
+  {
+    "university_id": "Q1144682",
+    "property": "website",
+    "value": "https://global.bfsu.edu.cn/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/sc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/sc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/sc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/sc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/tc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/tc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1937-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/tc/"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "inception",
+    "value": "1994-01-01"
+  },
+  {
+    "university_id": "Q1187271",
+    "property": "website",
+    "value": "https://polyu.edu.hk/tc/"
+  },
+  {
+    "university_id": "Q2982986",
+    "property": "inception",
+    "value": "1903-01-01"
+  },
+  {
+    "university_id": "Q2982986",
+    "property": "website",
+    "value": "https://www.hkac.edu"
+  },
+  {
+    "university_id": "Q6147859",
+    "property": "inception",
+    "value": "1985-01-01"
+  },
+  {
+    "university_id": "Q6147859",
+    "property": "website",
+    "value": "http://www.cdsndu.org"
+  },
+  {
+    "university_id": "Q7443422",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q7443422",
+    "property": "website",
+    "value": "http://www.smmu.edu.cn/"
+  },
+  {
+    "university_id": "Q7651053",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q7651053",
+    "property": "website",
+    "value": "https://www.szai.edu.cn/"
+  },
+  {
+    "university_id": "Q8039394",
+    "property": "inception",
+    "value": "1959-01-01"
+  },
+  {
+    "university_id": "Q8039394",
+    "property": "website",
+    "value": "http://www.wxit.edu.cn/"
+  },
+  {
+    "university_id": "Q10872931",
+    "property": "inception",
+    "value": "1999-01-01"
+  },
+  {
+    "university_id": "Q10872931",
+    "property": "website",
+    "value": "http://zhaosheng.plaieu.edu.cn/"
+  },
+  {
+    "university_id": "Q10872983",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q10873012",
+    "property": "inception",
+    "value": "1986-01-01"
+  },
+  {
+    "university_id": "Q10873029",
+    "property": "inception",
+    "value": "1986-10-08"
+  },
+  {
+    "university_id": "Q10873057",
+    "property": "inception",
+    "value": "1946-01-01"
+  },
+  {
+    "university_id": "Q10873121",
+    "property": "inception",
+    "value": "2017-01-01"
+  },
+  {
+    "university_id": "Q10873133",
+    "property": "inception",
+    "value": "1999-01-01"
+  },
+  {
+    "university_id": "Q15916735",
+    "property": "inception",
+    "value": "1979-01-01"
+  },
+  {
+    "university_id": "Q15916735",
+    "property": "website",
+    "value": "http://www.hnlgzy.net/"
+  },
+  {
+    "university_id": "Q47517291",
+    "property": "website",
+    "value": "http://www.mitu.cn/"
+  },
+  {
+    "university_id": "Q54914098",
+    "property": "inception",
+    "value": "1999-01-01"
+  },
+  {
+    "university_id": "Q54914098",
+    "property": "website",
+    "value": "http://www.gdqy.edu.cn/"
+  },
+  {
+    "university_id": "Q54914098",
+    "property": "inception",
+    "value": "1999-01-01"
+  },
+  {
+    "university_id": "Q54914098",
+    "property": "website",
+    "value": "https://www.gdqy.edu.cn/"
+  },
+  {
+    "university_id": "Q97582092",
+    "property": "website",
+    "value": "https://www.gdmec.edu.cn/"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "inception",
+    "value": "1940-01-01"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "website",
+    "value": "http://www.bit.edu.cn/"
+  },
+  {
+    "university_id": "Q23102",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q23102",
+    "property": "website",
+    "value": "http://www.hrbeu.edu.cn"
+  },
+  {
+    "university_id": "Q23110",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q23110",
+    "property": "website",
+    "value": "http://www.nuaa.edu.cn"
+  },
+  {
+    "university_id": "Q58555",
+    "property": "inception",
+    "value": "1964-01-01"
+  },
+  {
+    "university_id": "Q58555",
+    "property": "website",
+    "value": "http://www.hss.org.hk/"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "students",
+    "value": "15800"
+  },
+  {
+    "university_id": "Q190336",
+    "property": "website",
+    "value": "https://www.muc.edu.cn/"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://en.hit.edu.cn"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://www.hit.edu.cn/"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "website",
+    "value": "https://www.nudt.edu.cn"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q831227",
+    "property": "website",
+    "value": "https://english.nudt.edu.cn"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "inception",
+    "value": "1938-01-01"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "website",
+    "value": "http://www.nwpu.edu.cn/"
+  },
+  {
+    "university_id": "Q920505",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q920505",
+    "property": "website",
+    "value": "http://www.swun.edu.cn"
+  },
+  {
+    "university_id": "Q985755",
+    "property": "inception",
+    "value": "1960-01-01"
+  },
+  {
+    "university_id": "Q985755",
+    "property": "website",
+    "value": "http://www.hqu.edu.cn"
+  },
+  {
+    "university_id": "Q1074103",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q1074103",
+    "property": "website",
+    "value": "https://ustc.edu.cn"
+  },
+  {
+    "university_id": "Q1074308",
+    "property": "inception",
+    "value": "1997-01-01"
+  },
+  {
+    "university_id": "Q1074308",
+    "property": "website",
+    "value": "http://www.dlnu.edu.cn"
+  },
+  {
+    "university_id": "Q1455176",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q1455176",
+    "property": "website",
+    "value": "http://www.shisu.edu.cn"
+  },
+  {
+    "university_id": "Q1477368",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q1477368",
+    "property": "website",
+    "value": "http://www.dlut.edu.cn"
+  },
+  {
+    "university_id": "Q1477812",
+    "property": "inception",
+    "value": "1902-01-01"
+  },
+  {
+    "university_id": "Q1477812",
+    "property": "students",
+    "value": "21885"
+  },
+  {
+    "university_id": "Q1477812",
+    "property": "website",
+    "value": "http://www.njnu.edu.cn/"
+  },
+  {
+    "university_id": "Q1510516",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q1510516",
+    "property": "website",
+    "value": "http://www.ustb.edu.cn"
+  },
+  {
+    "university_id": "Q1540301",
+    "property": "inception",
+    "value": "1989-05-23"
+  },
+  {
+    "university_id": "Q1540301",
+    "property": "website",
+    "value": "https://www.hkmu.edu.hk"
+  },
+  {
+    "university_id": "Q1552757",
+    "property": "inception",
+    "value": "1928-01-01"
+  },
+  {
+    "university_id": "Q1552757",
+    "property": "website",
+    "value": "https://english.gxu.edu.cn/"
+  },
+  {
+    "university_id": "Q1552757",
+    "property": "inception",
+    "value": "1928-01-01"
+  },
+  {
+    "university_id": "Q1552757",
+    "property": "website",
+    "value": "https://www.gxu.edu.cn/"
+  },
+  {
+    "university_id": "Q1563050",
+    "property": "inception",
+    "value": "1981-01-01"
+  },
+  {
+    "university_id": "Q1563050",
+    "property": "website",
+    "value": "https://um.edu.mo"
+  },
+  {
+    "university_id": "Q1589630",
+    "property": "inception",
+    "value": "1956-01-01"
+  },
+  {
+    "university_id": "Q1589630",
+    "property": "website",
+    "value": "http://www.cueb.edu.cn/"
+  },
+  {
+    "university_id": "Q1622094",
+    "property": "inception",
+    "value": "1978-01-01"
+  },
+  {
+    "university_id": "Q1622094",
+    "property": "website",
+    "value": "http://escis.dali.edu.cn/"
+  },
+  {
+    "university_id": "Q1622094",
+    "property": "inception",
+    "value": "1978-01-01"
+  },
+  {
+    "university_id": "Q1622094",
+    "property": "website",
+    "value": "https://www.dali.edu.cn/"
+  },
+  {
+    "university_id": "Q1622134",
+    "property": "inception",
+    "value": "2003-01-01"
+  },
+  {
+    "university_id": "Q1622134",
+    "property": "students",
+    "value": "15000"
+  },
+  {
+    "university_id": "Q1622134",
+    "property": "website",
+    "value": "http://www.hebeinu.edu.cn/"
+  },
+  {
+    "university_id": "Q1622235",
+    "property": "inception",
+    "value": "1980-01-01"
+  },
+  {
+    "university_id": "Q1622235",
+    "property": "website",
+    "value": "https://www.zust.edu.cn/"
+  },
+  {
+    "university_id": "Q1639978",
+    "property": "inception",
+    "value": "1900-01-01"
+  },
+  {
+    "university_id": "Q1639978",
+    "property": "students",
+    "value": "48901"
+  },
+  {
+    "university_id": "Q1639978",
+    "property": "website",
+    "value": "http://www.suda.edu.cn/"
+  },
+  {
+    "university_id": "Q1674548",
+    "property": "inception",
+    "value": "1960-10-15"
+  },
+  {
+    "university_id": "Q1674548",
+    "property": "website",
+    "value": "https://english.bjut.edu.cn/"
+  },
+  {
+    "university_id": "Q1674548",
+    "property": "inception",
+    "value": "1960-10-15"
+  },
+  {
+    "university_id": "Q1674548",
+    "property": "website",
+    "value": "https://www.bjut.edu.cn/"
+  },
+  {
+    "university_id": "Q1711196",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q1711196",
+    "property": "website",
+    "value": "http://www.hust.edu.cn"
+  },
+  {
+    "university_id": "Q1765168",
+    "property": "inception",
+    "value": "1954-01-01"
+  },
+  {
+    "university_id": "Q1765168",
+    "property": "website",
+    "value": "http://www.cuc.edu.cn/"
+  },
+  {
+    "university_id": "Q1765168",
+    "property": "inception",
+    "value": "1954-01-01"
+  },
+  {
+    "university_id": "Q1765168",
+    "property": "website",
+    "value": "https://en.cuc.edu.cn/"
+  },
+  {
+    "university_id": "Q1804773",
+    "property": "inception",
+    "value": "1902-01-01"
+  },
+  {
+    "university_id": "Q1804773",
+    "property": "website",
+    "value": "http://www.njau.edu.cn"
+  },
+  {
+    "university_id": "Q1945756",
+    "property": "inception",
+    "value": "1983-01-01"
+  },
+  {
+    "university_id": "Q1945756",
+    "property": "website",
+    "value": "https://www.szu.edu.cn"
+  },
+  {
+    "university_id": "Q2031560",
+    "property": "inception",
+    "value": "1895-01-01"
+  },
+  {
+    "university_id": "Q2031560",
+    "property": "website",
+    "value": "http://www.tju.edu.cn"
+  },
+  {
+    "university_id": "Q2040973",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q2040973",
+    "property": "website",
+    "value": "http://www.ahut.edu.cn/"
+  },
+  {
+    "university_id": "Q2120270",
+    "property": "inception",
+    "value": "1902-01-01"
+  },
+  {
+    "university_id": "Q2120270",
+    "property": "students",
+    "value": "35900"
+  },
+  {
+    "university_id": "Q2120270",
+    "property": "website",
+    "value": "http://www.nwnu.edu.cn"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "inception",
+    "value": "1896-01-01"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "students",
+    "value": "70000"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "website",
+    "value": "https://scu.edu.cn"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "inception",
+    "value": "1896-01-01"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "students",
+    "value": "70000"
+  },
+  {
+    "university_id": "Q2281517",
+    "property": "website",
+    "value": "https://en.scu.edu.cn"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://ev.buaa.edu.cn/"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://ev.buaa.edu.cn/"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://ev.buaa.edu.cn/"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://ev.buaa.edu.cn/"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://buaa.edu.cn"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://buaa.edu.cn"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://buaa.edu.cn"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "inception",
+    "value": "1952-10-25"
+  },
+  {
+    "university_id": "Q2299797",
+    "property": "website",
+    "value": "https://buaa.edu.cn"
+  },
+  {
+    "university_id": "Q2399342",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q2399342",
+    "property": "students",
+    "value": "16900"
+  },
+  {
+    "university_id": "Q2431406",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q2431406",
+    "property": "website",
+    "value": "http://www.xzmy.edu.cn"
+  },
+  {
+    "university_id": "Q2492836",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q2492836",
+    "property": "website",
+    "value": "http://www.uir.cn/"
+  },
+  {
+    "university_id": "Q2492836",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q2492836",
+    "property": "website",
+    "value": "http://www.uir.cn/"
+  },
+  {
+    "university_id": "Q2492920",
+    "property": "inception",
+    "value": "1955-09-10"
+  },
+  {
+    "university_id": "Q2492920",
+    "property": "website",
+    "value": "http://www.cfau.edu.cn"
+  },
+  {
+    "university_id": "Q2492920",
+    "property": "inception",
+    "value": "1955-09-10"
+  },
+  {
+    "university_id": "Q2492920",
+    "property": "website",
+    "value": "http://www.cfau.edu.cn"
+  },
+  {
+    "university_id": "Q2496116",
+    "property": "inception",
+    "value": "1902-01-01"
+  },
+  {
+    "university_id": "Q2496116",
+    "property": "website",
+    "value": "http://www.nwu.edu.cn/"
+  },
+  {
+    "university_id": "Q2496210",
+    "property": "inception",
+    "value": "1958-01-01"
+  },
+  {
+    "university_id": "Q2496210",
+    "property": "students",
+    "value": "12000"
+  },
+  {
+    "university_id": "Q2496210",
+    "property": "website",
+    "value": "http://www.buct.edu.cn/"
+  },
+  {
+    "university_id": "Q2578027",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q2578027",
+    "property": "website",
+    "value": "https://www.shzu.edu.cn/"
+  },
+  {
+    "university_id": "Q2655352",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q2655352",
+    "property": "website",
+    "value": "http://www.ecust.edu.cn/"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "website",
+    "value": "http://www.jnu.edu.cn/"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "website",
+    "value": "http://www.jnu.edu.cn/"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "website",
+    "value": "https://english.jnu.edu.cn/"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q2687517",
+    "property": "website",
+    "value": "https://english.jnu.edu.cn/"
+  },
+  {
+    "university_id": "Q3133583",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q3133583",
+    "property": "website",
+    "value": "http://www.cauc.edu.cn"
+  },
+  {
+    "university_id": "Q3133583",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q3133583",
+    "property": "website",
+    "value": "http://www.cauc.edu.cn"
+  },
+  {
+    "university_id": "Q3152213",
+    "property": "inception",
+    "value": "1960-01-01"
+  },
+  {
+    "university_id": "Q3152213",
+    "property": "website",
+    "value": "https://www.suibe.edu.cn"
+  },
+  {
+    "university_id": "Q3152213",
+    "property": "inception",
+    "value": "1960-01-01"
+  },
+  {
+    "university_id": "Q3152213",
+    "property": "website",
+    "value": "https://eng.suibe.edu.cn/"
+  },
+  {
+    "university_id": "Q3249121",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q3249121",
+    "property": "website",
+    "value": "http://www.lyu.edu.cn/"
+  },
+  {
+    "university_id": "Q3274786",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q3274786",
+    "property": "website",
+    "value": "http://www.cup.edu.cn"
+  },
+  {
+    "university_id": "Q3332415",
+    "property": "inception",
+    "value": "1955-01-01"
+  },
+  {
+    "university_id": "Q3332415",
+    "property": "website",
+    "value": "http://www.qfnu.edu.cn"
+  },
+  {
+    "university_id": "Q3372325",
+    "property": "inception",
+    "value": "1917-01-01"
+  },
+  {
+    "university_id": "Q3372325",
+    "property": "website",
+    "value": "https://www.pumc.edu.cn"
+  },
+  {
+    "university_id": "Q3429270",
+    "property": "inception",
+    "value": "1898-01-01"
+  },
+  {
+    "university_id": "Q3429270",
+    "property": "website",
+    "value": "http://www.hzau.edu.cn/"
+  },
+  {
+    "university_id": "Q3429296",
+    "property": "inception",
+    "value": "1913-01-01"
+  },
+  {
+    "university_id": "Q3429296",
+    "property": "website",
+    "value": "http://www.henau.edu.cn/"
+  },
+  {
+    "university_id": "Q3431706",
+    "property": "inception",
+    "value": "1946-09-01"
+  },
+  {
+    "university_id": "Q3431706",
+    "property": "website",
+    "value": "http://www.ctgu.edu.cn"
+  },
+  {
+    "university_id": "Q3467465",
+    "property": "inception",
+    "value": "1909-01-01"
+  },
+  {
+    "university_id": "Q3467465",
+    "property": "website",
+    "value": "http://www.dlmu.edu.cn/"
+  },
+  {
+    "university_id": "Q3551745",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q3551745",
+    "property": "website",
+    "value": "http://www.bsu.edu.cn/"
+  },
+  {
+    "university_id": "Q3953805",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q3953805",
+    "property": "website",
+    "value": "http://www.njust.edu.cn/"
+  },
+  {
+    "university_id": "Q4222416",
+    "property": "inception",
+    "value": "1948-05-01"
+  },
+  {
+    "university_id": "Q4222416",
+    "property": "website",
+    "value": "http://www.cipuc.edu.cn/"
+  },
+  {
+    "university_id": "Q4222416",
+    "property": "inception",
+    "value": "1948-05-01"
+  },
+  {
+    "university_id": "Q4222416",
+    "property": "website",
+    "value": "http://www.npuc.edu.cn/"
+  },
+  {
+    "university_id": "Q4569544",
+    "property": "inception",
+    "value": "1949-01-01"
+  },
+  {
+    "university_id": "Q4569544",
+    "property": "website",
+    "value": "http://www.cwu.edu.cn/"
+  },
+  {
+    "university_id": "Q4881127",
+    "property": "inception",
+    "value": "1947-08-01"
+  },
+  {
+    "university_id": "Q4881127",
+    "property": "website",
+    "value": "https://www.besti.edu.cn/"
+  },
+  {
+    "university_id": "Q5099732",
+    "property": "inception",
+    "value": "1946-01-01"
+  },
+  {
+    "university_id": "Q5099732",
+    "property": "website",
+    "value": "http://www.culr.edu.cn/"
+  },
+  {
+    "university_id": "Q5099978",
+    "property": "inception",
+    "value": "1948-01-01"
+  },
+  {
+    "university_id": "Q5099978",
+    "property": "website",
+    "value": "http://www.cyu.edu.cn/"
+  },
+  {
+    "university_id": "Q5100586",
+    "property": "inception",
+    "value": "1981-01-01"
+  },
+  {
+    "university_id": "Q5100586",
+    "property": "website",
+    "value": "https://www.cppu.edu.cn"
+  },
+  {
+    "university_id": "Q5100586",
+    "property": "inception",
+    "value": "1981-04-24"
+  },
+  {
+    "university_id": "Q5100586",
+    "property": "website",
+    "value": "https://www.cppu.edu.cn"
+  },
+  {
+    "university_id": "Q5100590",
+    "property": "inception",
+    "value": "1948-07-01"
+  },
+  {
+    "university_id": "Q5100590",
+    "property": "website",
+    "value": "http://www.ppsuc.edu.cn"
+  },
+  {
+    "university_id": "Q6147859",
+    "property": "inception",
+    "value": "1985-01-01"
+  },
+  {
+    "university_id": "Q6147859",
+    "property": "website",
+    "value": "http://www.cdsndu.org"
+  },
+  {
+    "university_id": "Q6544465",
+    "property": "inception",
+    "value": "1978-01-01"
+  },
+  {
+    "university_id": "Q6544465",
+    "property": "website",
+    "value": "https://www.ucas.ac.cn"
+  },
+  {
+    "university_id": "Q7060264",
+    "property": "inception",
+    "value": "1950-08-01"
+  },
+  {
+    "university_id": "Q7060264",
+    "property": "website",
+    "value": "http://www.xbmu.edu.cn/"
+  },
+  {
+    "university_id": "Q7566777",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q7566777",
+    "property": "website",
+    "value": "http://www.scuec.edu.cn"
+  },
+  {
+    "university_id": "Q10567152",
+    "property": "inception",
+    "value": "1887-01-01"
+  },
+  {
+    "university_id": "Q10867958",
+    "property": "inception",
+    "value": "1953-01-01"
+  },
+  {
+    "university_id": "Q10867958",
+    "property": "website",
+    "value": "https://www.shcc.edu.cn/"
+  },
+  {
+    "university_id": "Q10872999",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q10873034",
+    "property": "inception",
+    "value": "1958-09-12"
+  },
+  {
+    "university_id": "Q10875050",
+    "property": "inception",
+    "value": "1956-01-01"
+  },
+  {
+    "university_id": "Q10875050",
+    "property": "website",
+    "value": "http://www.cicp.edu.cn"
+  },
+  {
+    "university_id": "Q10902198",
+    "property": "inception",
+    "value": "1981-01-01"
+  },
+  {
+    "university_id": "Q10903058",
+    "property": "inception",
+    "value": "1984-01-01"
+  },
+  {
+    "university_id": "Q10903058",
+    "property": "website",
+    "value": "https://en.nmu.edu.cn/"
+  },
+  {
+    "university_id": "Q10905504",
+    "property": "inception",
+    "value": "1984-01-01"
+  },
+  {
+    "university_id": "Q10905504",
+    "property": "website",
+    "value": "https://www.ncist.edu.cn/"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "website",
+    "value": "http://www.forestpolice.net/web/"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "inception",
+    "value": "2010-01-01"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "website",
+    "value": "http://www.forestpolice.net/web/"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "inception",
+    "value": "1941-01-01"
+  },
+  {
+    "university_id": "Q10906861",
+    "property": "website",
+    "value": "https://www.forestpolice.net/"
+  },
+  {
+    "university_id": "Q15570",
+    "property": "inception",
+    "value": "1963-01-01"
+  },
+  {
+    "university_id": "Q15570",
+    "property": "students",
+    "value": "19861"
+  },
+  {
+    "university_id": "Q15570",
+    "property": "website",
+    "value": "https://cuhk.edu.hk"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://de.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://de.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://en.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://en.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://www.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "inception",
+    "value": "1907-01-01"
+  },
+  {
+    "university_id": "Q16947",
+    "property": "website",
+    "value": "https://www.tongji.edu.cn/"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn/en/"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "inception",
+    "value": "1911-03-30"
+  },
+  {
+    "university_id": "Q16955",
+    "property": "website",
+    "value": "https://www.tsinghua.edu.cn/en/"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "inception",
+    "value": "1940-01-01"
+  },
+  {
+    "university_id": "Q23101",
+    "property": "website",
+    "value": "http://www.bit.edu.cn/"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "inception",
+    "value": "1924-01-01"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "students",
+    "value": "65638"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "website",
+    "value": "http://www.sysu.edu.cn/"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "inception",
+    "value": "1924-01-01"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "students",
+    "value": "65638"
+  },
+  {
+    "university_id": "Q178972",
+    "property": "website",
+    "value": "http://www.sysu.edu.cn/"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "inception",
+    "value": "1897-05-21"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "students",
+    "value": "39000"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "website",
+    "value": "https://www.zju.edu.cn"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "inception",
+    "value": "1897-05-21"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "students",
+    "value": "39000"
+  },
+  {
+    "university_id": "Q197543",
+    "property": "website",
+    "value": "https://www.zju.edu.cn"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "inception",
+    "value": "1919-01-01"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "website",
+    "value": "https://www.nankai.edu.cn/"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "inception",
+    "value": "1919-01-01"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "website",
+    "value": "https://www.nankai.edu.cn/"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "inception",
+    "value": "1919-01-01"
+  },
+  {
+    "university_id": "Q254204",
+    "property": "website",
+    "value": "https://www.nankai.edu.cn/"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "inception",
+    "value": "1905-01-01"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "website",
+    "value": "http://www.cau.edu.cn/"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "inception",
+    "value": "1905-01-01"
+  },
+  {
+    "university_id": "Q257655",
+    "property": "website",
+    "value": "http://www.cau.edu.cn/"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "inception",
+    "value": "1905-01-01"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "students",
+    "value": "44300"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "website",
+    "value": "https://www.fudan.edu.cn"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "inception",
+    "value": "1905-01-01"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "students",
+    "value": "44300"
+  },
+  {
+    "university_id": "Q495015",
+    "property": "website",
+    "value": "https://www.fudan.edu.cn"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://en.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://en.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://www.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "inception",
+    "value": "1896-12-06"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "students",
+    "value": "46443"
+  },
+  {
+    "university_id": "Q525169",
+    "property": "website",
+    "value": "https://www.sjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q549697",
+    "property": "inception",
+    "value": "1962-01-01"
+  },
+  {
+    "university_id": "Q549697",
+    "property": "students",
+    "value": "13000"
+  },
+  {
+    "university_id": "Q549697",
+    "property": "website",
+    "value": "http://www.blcu.edu.cn"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "inception",
+    "value": "1901-01-01"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "website",
+    "value": "https://www.sdu.edu.cn/"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "inception",
+    "value": "1901-01-01"
+  },
+  {
+    "university_id": "Q604470",
+    "property": "website",
+    "value": "https://www.sdu.edu.cn/"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://en.hit.edu.cn"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "inception",
+    "value": "1920-01-01"
+  },
+  {
+    "university_id": "Q632558",
+    "property": "website",
+    "value": "http://www.hit.edu.cn/"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "inception",
+    "value": "0976-01-01"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "students",
+    "value": "46000"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "website",
+    "value": "https://www.hnu.edu.cn"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "inception",
+    "value": "1903-01-01"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "students",
+    "value": "46000"
+  },
+  {
+    "university_id": "Q649868",
+    "property": "website",
+    "value": "https://www.hnu.edu.cn"
+  },
+  {
+    "university_id": "Q649906",
+    "property": "inception",
+    "value": "1931-01-01"
+  },
+  {
+    "university_id": "Q649906",
+    "property": "website",
+    "value": "http://www.xidian.edu.cn/"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "inception",
+    "value": "1915-01-01"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "students",
+    "value": "33000"
+  },
+  {
+    "university_id": "Q662131",
+    "property": "website",
+    "value": "http://www.hhu.edu.cn/"
+  },
+  {
+    "university_id": "Q683580",
+    "property": "inception",
+    "value": "1915-01-01"
+  },
+  {
+    "university_id": "Q683580",
+    "property": "website",
+    "value": "https://www.nju.edu.cn/main.htm"
+  },
+  {
+    "university_id": "Q683580",
+    "property": "inception",
+    "value": "1915-01-01"
+  },
+  {
+    "university_id": "Q683580",
+    "property": "website",
+    "value": "https://www.nju.edu.cn/main.htm"
+  },
+  {
+    "university_id": "Q787360",
+    "property": "inception",
+    "value": "1984-01-01"
+  },
+  {
+    "university_id": "Q787360",
+    "property": "website",
+    "value": "https://cityu.edu.hk"
+  },
+  {
+    "university_id": "Q832355",
+    "property": "inception",
+    "value": "2000-05-27"
+  },
+  {
+    "university_id": "Q832355",
+    "property": "website",
+    "value": "http://www.whut.edu.cn"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "inception",
+    "value": "1938-01-01"
+  },
+  {
+    "university_id": "Q832550",
+    "property": "website",
+    "value": "http://www.nwpu.edu.cn/"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "students",
+    "value": "21325"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "website",
+    "value": "http://en.cupl.edu.cn/"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "inception",
+    "value": "1952-01-01"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "students",
+    "value": "21325"
+  },
+  {
+    "university_id": "Q833961",
+    "property": "website",
+    "value": "https://www.cupl.edu.cn/"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "inception",
+    "value": "1929-01-01"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "website",
+    "value": "https://www.cqu.edu.cn"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "inception",
+    "value": "1929-01-01"
+  },
+  {
+    "university_id": "Q834857",
+    "property": "website",
+    "value": "https://www.cqu.edu.cn"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "inception",
+    "value": "1952-11-01"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "students",
+    "value": "42720"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "website",
+    "value": "http://www.scut.edu.cn/"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "inception",
+    "value": "1952-11-01"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "students",
+    "value": "42720"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "website",
+    "value": "http://www.scut.edu.cn/"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "inception",
+    "value": "1952-11-01"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "students",
+    "value": "42720"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "website",
+    "value": "https://www.scut.edu.cn/en/"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "inception",
+    "value": "1952-11-01"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "students",
+    "value": "42720"
+  },
+  {
+    "university_id": "Q835366",
+    "property": "website",
+    "value": "https://www.scut.edu.cn/en/"
+  },
+  {
+    "university_id": "Q835779",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q835779",
+    "property": "website",
+    "value": "http://www.uibe.edu.cn/"
+  },
+  {
+    "university_id": "Q837544",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q837544",
+    "property": "website",
+    "value": "http://www.dhu.edu.cn/"
+  },
+  {
+    "university_id": "Q837544",
+    "property": "inception",
+    "value": "1951-01-01"
+  },
+  {
+    "university_id": "Q837544",
+    "property": "website",
+    "value": "http://www.dhu.edu.cn/"
+  },
+  {
+    "university_id": "Q837873",
+    "property": "inception",
+    "value": "1950-01-01"
+  },
+  {
+    "university_id": "Q837873",
+    "property": "website",
+    "value": "http://www.cafa.edu.cn/"
+  },
+  {
+    "university_id": "Q840443",
+    "property": "inception",
+    "value": "1906-01-01"
+  },
+  {
+    "university_id": "Q840443",
+    "property": "website",
+    "value": "http://www.swu.edu.cn/"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "inception",
+    "value": "1896-01-01"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "website",
+    "value": "http://www.xjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "inception",
+    "value": "1896-01-01"
+  },
+  {
+    "university_id": "Q981237",
+    "property": "website",
+    "value": "http://www.xjtu.edu.cn/"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "inception",
+    "value": "1934-01-01"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "website",
+    "value": "http://www.nwsuaf.edu.cn/"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "inception",
+    "value": "1934-01-01"
+  },
+  {
+    "university_id": "Q985808",
+    "property": "website",
+    "value": "http://www.nwsuaf.edu.cn/"
+  },
+  {
+    "university_id": "Q1039400",
+    "property": "inception",
+    "value": "1956-01-01"
+  },
+  {
+    "university_id": "Q1039400",
+    "property": "website",
+    "value": "http://www.bucm.edu.cn/"
+  }
+]
